@@ -1,0 +1,45 @@
+{
+  "epub": "Mother of Learning - The Shape of After - Chapters 001-002.epub",
+  "chapter_count": 2,
+  "narrative_words": 12238,
+  "epub_sha256": "e9925095d8d116fcdb59b11df6ff91efc3a40301743ac0ac208c3b7c662587ea",
+  "epubcheck": "not available; built-in structural and source-text checks passed",
+  "cover": {
+    "path": "The Shape of After - Cover.png",
+    "width": 1600,
+    "height": 2560,
+    "embedded": true
+  },
+  "checks": [
+    "ZIP integrity",
+    "EPUB packaging",
+    "cover image and OPF designation",
+    "cover page and rendering resource",
+    "XML parsing",
+    "manifest resources",
+    "spine and navigation order",
+    "internal links",
+    "source paragraph equality",
+    "scene separators",
+    "locked source hashes"
+  ],
+  "device_rendering": "not tested",
+  "chapters": [
+    {
+      "path": "chapters/Chapter 001 - After the Moon.md",
+      "number": 1,
+      "title": "After the Moon",
+      "words": 5949,
+      "sha256": "eddfeaa6c0b999fad1f02dc6e12d6631ed8301ee7de840d62a5c3cc5cfa310c3",
+      "scene_breaks": 4
+    },
+    {
+      "path": "chapters/Chapter 002 - A Budget for One Person.md",
+      "number": 2,
+      "title": "A Budget for One Person",
+      "words": 6289,
+      "sha256": "3025d7ba3613218f93c1480c9941021dc66abd71a1611642c7ccab35e3e0443f",
+      "scene_breaks": 8
+    }
+  ]
+}

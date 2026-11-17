@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "policy": "No changes to delivered chapters without user permission.",
+  "chapters": {
+    "chapters/Chapter 001 - After the Moon.md": {
+      "sha256": "eddfeaa6c0b999fad1f02dc6e12d6631ed8301ee7de840d62a5c3cc5cfa310c3",
+      "narrative_words": 5949,
+      "registered_utc": "2026-11-16T06:58:18.479784+00:00"
+    },
+    "chapters/Chapter 002 - A Budget for One Person.md": {
+      "sha256": "3025d7ba3613218f93c1480c9941021dc66abd71a1611642c7ccab35e3e0443f",
+      "narrative_words": 6289,
+      "registered_utc": "2026-11-17T18:34:29.409191+00:00"
+    }
+  }
+}
