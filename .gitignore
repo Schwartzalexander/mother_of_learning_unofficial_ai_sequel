@@ -1,0 +1,9 @@
+# Original novel: copyrighted source material, kept locally as reference only
+Domagoj Kurmaic - Mother of Learning.epub
+
+# Local text extracts taken from that original EPUB
+.scratch/
+
+# Python caches
+__pycache__/
+*.pyc

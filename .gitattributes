@@ -1,0 +1,7 @@
+# Chapter and record files are hashed byte-for-byte: keep LF everywhere so a
+# fresh clone reproduces the hashes stored in chapter-locks.json.
+*.md  text eol=lf
+*.json text eol=lf
+*.py  text eol=lf
+*.epub binary
+*.png  binary
