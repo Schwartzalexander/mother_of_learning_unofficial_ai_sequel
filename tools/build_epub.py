@@ -181,8 +181,8 @@ def make_archive(chapters):
         'media-type="application/oebps-package+xml"/></rootfiles></container>',
         "EPUB/package.opf": package, "EPUB/nav.xhtml": page("Contents", contents),
         "EPUB/cover.xhtml": page("Cover", '<section epub:type="cover"><img src="cover.png" '
-                                            'alt="The Shape of After — moonlit city above an underground '
-                                            'magical lattice"/></section>'),
+                                            'alt="The Shape of After — a moonlit city before a great '
+                                            'broken clock dial"/></section>'),
         "EPUB/title.xhtml": page(TITLE, title), "EPUB/toc.ncx": ncx,
         "EPUB/style.css": ('body { margin: 5%; line-height: 1.5; } '
                            'h1 { text-align: center; margin: 1.5em 0; } '

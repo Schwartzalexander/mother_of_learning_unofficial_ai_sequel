@@ -1,16 +1,32 @@
 {
   "format": 1,
   "policy": "No changes to delivered chapters without user permission.",
-  "chapters": {
-    "chapters/Chapter 001 - After the Moon.md": {
+  "withdrawn": [
+    {
+      "path": "chapters/Chapter 001 - After the Moon.md",
       "sha256": "eddfeaa6c0b999fad1f02dc6e12d6631ed8301ee7de840d62a5c3cc5cfa310c3",
-      "narrative_words": 5949,
-      "registered_utc": "2026-11-16T06:58:18.479784+00:00"
+      "registered_utc": "2026-11-16T06:58:18.479784+00:00",
+      "withdrawn_utc": "2026-11-18T22:50:00+01:00",
+      "authority": "Reader instructed on 2026-11-18 that the first two chapters be replaced and the planning premise changed. Text deleted, not amended; range editions containing it deleted with it."
     },
-    "chapters/Chapter 002 - A Budget for One Person.md": {
+    {
+      "path": "chapters/Chapter 002 - A Budget for One Person.md",
       "sha256": "3025d7ba3613218f93c1480c9941021dc66abd71a1611642c7ccab35e3e0443f",
-      "narrative_words": 6289,
-      "registered_utc": "2026-11-17T18:34:29.409191+00:00"
+      "registered_utc": "2026-11-17T18:34:29.409191+00:00",
+      "withdrawn_utc": "2026-11-18T22:50:00+01:00",
+      "authority": "Reader instructed on 2026-11-18 that the first two chapters be replaced and the planning premise changed. Text deleted, not amended; range editions containing it deleted with it."
+    }
+  ],
+  "chapters": {
+    "chapters/Chapter 001 - Two Mornings on Vrabec Row.md": {
+      "sha256": "dce7375f72ba830401674e12aeaeaeb1b82a2514d6ef2e71cff14ad11a18e987",
+      "narrative_words": 5740,
+      "registered_utc": "2026-11-18T22:20:24.819095+00:00"
+    },
+    "chapters/Chapter 002 - The Cost of Copies.md": {
+      "sha256": "3a4756b5321fff68fa656d37c23f08bd074610ebd23fd3268d35f22ce859875d",
+      "narrative_words": 6491,
+      "registered_utc": "2026-11-18T22:20:24.819095+00:00"
     }
   }
 }

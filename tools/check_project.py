@@ -16,13 +16,20 @@ class ProjectChecks(unittest.TestCase):
 
     def test_full_chapter_plan_and_payoff_register(self):
         plan = (build.ROOT / "Continuation master plan.md").read_text(encoding="utf-8")
-        outline = plan.split("## 5. Chapter architecture", 1)[1].split("## 6.", 1)[0]
+        outline = plan.split("## 6. Chapter architecture", 1)[1].split("## 7.", 1)[0]
         numbers = [int(n) for n in re.findall(r"(?m)^(\d+)\. \*\*", outline)]
-        self.assertEqual(numbers, list(range(1, 73)))
-        register = plan.split("## 6. Payoff register", 1)[1].split("## 7.", 1)[0]
+        self.assertEqual(numbers, list(range(1, 145)))
+        self.assertEqual(len(re.findall(r"(?m)^### Part ", outline)), 9)
+        register = plan.split("## 8. Payoff register", 1)[1].split("## 9.", 1)[0]
         ids = re.findall(r"(?m)^\| (P\d+) \|", register)
-        self.assertEqual(ids, [f"P{i:02}" for i in range(1, 26)])
-        self.assertEqual(sum((62000, 68000, 66000, 70000, 70000, 67000)), 403000)
+        self.assertEqual(ids, [f"P{i:02}" for i in range(1, 35)])
+        budget = [int(n.replace(",", "")) for n in re.findall(
+            r"(?m)^\| [IVX]+:[^|]*\| \d+.\d+ \| *([0-9,]+) \|", plan)]
+        self.assertEqual(len(budget), 9)
+        self.assertEqual(sum(budget), 802000)
+        threads = re.findall(r"(?m)^\| [A-R] \|",
+                             plan.split("## 4. Plotlines", 1)[1].split("## 5.", 1)[0])
+        self.assertEqual(len(threads), 18)
 
     def test_delivered_sources_match_locks(self):
         build.check_locks(self.chapters, register=False)

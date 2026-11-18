@@ -1,276 +1,376 @@
 # The Shape of After — Continuation Master Plan
 
-Revision 2, 16 November 2026. English fiction; unofficial continuation. **Contains complete plot spoilers.**
+Revision 3, 18 November 2026. English fiction; unofficial continuation. **Author-side document: contains complete plot spoilers. Never summarise this file in chat.**
 
-The user has authorized Chapter 1 and an EPUB containing it. Further chapters require a further request. This revision supersedes incompatible proposals in `Sequel concept.md`, which remains an exploratory idea bank, not established continuity.
+The reader's request behind this revision: the previous spine (reconstruction sites, shored cellars, load wards, subterranean networks) is **retired in full** and must not return. The opening must be warm and domestic, with familiar characters. Overall length must match the main work. Chapters do not have to be self-contained. Simulacra must actually be used, or their non-use justified in-story. **All of that is implemented below.**
 
-## 1. Review verdict and corrections
+Superseded material: the Boundary Lattice, Darel Voss, Mara Vesk, Keeper of the Last Crossing, Lethan Sorev, Ivena Tal, the "sealed witness" commission, the underground expedition, and every collapse/inspection set piece. Delivered Chapters 1–2 were written against that spine and, on the reader's instruction, have been **withdrawn**; their text and their range editions are removed, and the locks are cleared accordingly.
 
-The former plan had a viable aftermath premise but was not ready to support 400,000 words. Too many chapters repeated a hearing, a withheld truth, or a failed containment experiment without changing the objective. Important relationships disappeared for entire parts. Most new people were unnamed functions. The payoff table disagreed with the chapter outline. Several supposed source facts were wrong.
+## 1. Canon facts that constrain the sequel
 
-This version gives each part a different dramatic engine: rescue mystery, expedition, financial/conspiracy thriller, foreign recovery adventure, siege and exposure, then a multi-front climax. Local problems end throughout the book. Relationships develop alongside these actions rather than waiting for isolated reconciliation chapters at the end. New characters have independent stakes, distinct abilities, mistakes, and endings. The main mystery has a fixed solution before drafting begins.
+Primary source: the supplied EPUB (chapter labels, not split-file numbers). Verified in the source text:
 
-### Source continuity checked
+- **Simulacra are ordinary for Zorian and were used constantly.** A copy has **no soul and no mana reserves of its own**; both are shared with the creator, so he pays the creation cost, a **running upkeep for as long as it exists**, and **the cost of every spell the copy casts**. His own reserves are visibly weakened by "the number of simulacrums you keep around you at all times". Copies cast his whole repertoire (including his gate craft). One viewpoint-link that merges thought-streams works **only while they are broadly doing the same thing**, so a copy's independent learning does **not** come back to him for free. Copies act on their own initiative: in the Epilogue a copy in Cyoria accepts a tea-house meeting with **Akoja** without asking him, and they argue about it afterwards. Copies were stationed abroad during the war, including **Koth**, and the enemy ran copies too.
+- **The erased month.** Memory of the fighting was removed to satisfy the terms of the angel contract; Xvim, Alanic and Daimen were given **memory crystals**, and non-psychics struggle to digest them. The divine contract is dissolved; the angel's undertaking that an evasion would not be punished while Panaxeth stays imprisoned still stands. The angel's later manifestations stay limited. Panaxeth remains imprisoned; the invasion was genuinely stopped. The original angel is unnamed in the checked scenes.
+- **Gate craft.** The invaders used **permanent gates**, a then-unknown achievement; Quatach-Ichl's stabilisation frame was partly cracked with Silverlake's help; Zorian's own dimensionalism fuses Xvim's orthodox teaching, the **Ibasan permanent gates**, and the **Bakora Gates** of Koth. A **permanent gate** now links Eldemar and Koth, each end controlled locally; **Silent Doorway Adepts** travel it.
+- **Time magic exists but is rare and expensive.** There was a **time-magic research facility beneath Cyoria**, in the Dungeon, with a mana draw large enough to keep a gate and a pocket dimension running; the **Guardian of the Threshold** is there. Quatach-Ichl's remaining works abroad must be assumed fast. Zorian built himself a trained **internal clock** because pocket-dimension work demands inhuman precision.
+- **Investigation.** **Elayer Inid** is the crown's special investigator into who actually stopped the attack; he is competent, patient, and has no handwave available. People have already been asking around about Zorian (Kopriva was approached).
+- **Household.** Imaya's house is crowded: Imaya, her children **Kana**, **Nochka**, **Rea**, Zorian, Kirielle (who shares his room and is already being taught by him), plus a rotating student population; the Academy dorms were badly damaged, so the house took in tenants and is used as a makeshift classroom, and the Academy has **added wards** to it. The study group is **Akoja, Raynie, Kiana, Kopriva, Kael, Naim, Edwin, Estin**, with **Ilsa** running the table with a clipboard and **Taiven**, **Xvim** moving through it. **Princess** is a giant divinely enhanced hydra whom Zorian released into the northern wilderness; an **iron-beaked flock** has adopted her and follows her everywhere, making her conspicuous — the source leaves what to do about her openly unresolved. **Mrva** and **Kosjenka** were both destroyed during the fighting; Kosjenka died saving Kirielle, Kirielle grieved for her, and what Zorian finally does with Kosjenka's remains is left open in the source and must not be asserted beyond "kept, and being thought about". The Kazinski family is from **Cirin**: **Daimen** (elder brother, partner **Orissa**, parents a difficulty), **Fortov** (younger brother, studies failing, acted strangely since being evacuated from Cyoria with Kirielle), and the parents. **Raynie** has gone home; her brother is rescued; her tribe's obligations are live. **Zach** of **House Noveda** has already sued his caretaker for stealing the family property, has publicly accused **Tesen** of robbing him of his legacy, and Tesen has already sent people to scout Imaya's house. Grey-hunter **eggs** from the coda exist and hatched somewhere; what struck the altered mother at the very end is **never identified in the source and must not be invented**.
 
-Primary source: the supplied EPUB, Chapters 96 and 104–106 and the complete Epilogue. References use the novel's chapter labels, not EPUB split-file numbers. Further relevant source scenes must be checked when each returning character enters.
+## 2. Scope: length, clock, serialization
 
-- **Timing:** The Epilogue already takes place about a month after the invasion. Chapter 1 follows Zorian's last moonlit walk immediately, not the night of the battle. The final grey-hunter coda is parallel narrative information, not something Zorian witnessed.
-- **Kiri:** Zorian has already started teaching Kirielle. Continue those lessons. She has a repaired Kosjenka and a newly bought snow globe. She and Zorian share a room at Imaya's overcrowded house.
-- **Academy:** Closed for roughly a month; expected to reopen in about a week. Zorian already leads an effective study group, with Ilsa and Xvim sometimes teaching. He is not returning to being an unskilled beginner.
-- **Zach:** Still friends and in contact, despite genuine anger, a punch, and petty revenge. Do not reset them to estranged strangers. His lawsuit against Tesen is already underway. He has bought Kael a damaged building for a laboratory.
-- **Contract:** Chapter 96's angel explicitly promises not to punish an evasion if Panaxeth stays imprisoned. The divine contract has dissolved by Chapter 106. Angels cannot casually rewrite divine magic. No revived death pact, retrospective punishment, or invented renegotiation of that dissolved contract.
-- **Angel:** The original spirit is unnamed in the checked scene. Remove the invented identification "Veyr." Its later containment position must respect its earlier undertaking and the limits on angelic intervention.
-- **Silverlake:** A witch, not a town or lake destination. Her real-world self survives; the escaping loop version is eaten by a grey hunter. The user's example concerns delayed narrative payoff, not an instruction to invent an unfinished canonical Silverlake errand.
-- **Brood:** The mother is that grey hunter, enriched by the loop Silverlake's primordial essence. Zorian already suspects consequences, but does not know about the eggs or the coda's events. Panaxeth remains imprisoned; the sequel must not erase the original victory.
-- **Public knowledge:** Zorian is known as an empath and aranea intermediary, supposedly a beginner mind mage. Spear of Resolve already speaks for her web; House Aope supports negotiations; Tinami participates. Novelty is an adult aranea scheduled to observe Academy classes.
-- **Royal investigation:** Elayer Inid already investigates the unknown defenders, golem wrecks, and mysterious research gifts. Do not replace him with a newly invented inquiry that discovers everything from scratch.
-- **Raynie:** Her brother has been rescued. She has promised help from her tribe, fears the consequences, and intends to visit home until classes resume. She has never experienced Zorian's remembered loop date.
-- **Family:** Daimen is engaged to Orissa Taramatula. The permanent gate links Eldemar with Koth; both sides control their own end. Daimen mediates. His parents have arrived and are being introduced to this opportunity. Fortov's failing studies and Daimen's promised help are live issues.
-- **Resources:** Zorian has a sizeable shrinking reserve, no remaining known invader caches or accounts, and conspicuous sales have already attracted criminal attention. Mrva is recovered but nonfunctional. Princess remains bonded to Zorian and lives in the northern forest with the iron beaks. The imperial orb went to Oganj; it is not available storage.
-- **Memory:** Xvim, Alanic, and Daimen received memory crystals after the erased month. Recovering such memories is not instantaneous. Kael recognizes his own style in research he cannot remember writing. These are existing consequences, not new revelations for everybody alike.
+Measured length of the supplied main work: **803,366 words**. Target for this continuation: **795,000–810,000 words**, working budget **802,000**, spread over **144 chapters in nine parts**. Mean chapter length about **5,570 words**; range 4,800–6,600.
 
-## 2. Scope, clock, and narrative balance
-
-Target **395,000–415,000 English words**, approximately half the supplied novel. The earlier rough whitespace count was about 805,600; front matter and punctuation make this approximate. Use 72 chapters as an architectural target, not an excuse to pad scenes. Mean chapter length about 5,600 words; typical range 4,800–6,500. Chapter 1 should be a complete substantial chapter in that range.
-
-| Part | Chapters | Word budget | Time since Chapter 1 | Main dramatic engine / completed objective |
+| Part | Chapters | Word budget | Story time | Dramatic engine |
 |---|---|---:|---|---|
-| I: Necessary Repairs | 1–12 | 62,000 | First three weeks | Rescue mystery; solve local collapse and return missing workers |
-| II: The Country Below | 13–24 | 68,000 | Weeks 4–8 | Expedition; save an isolated web and identify the routing network |
-| III: The Price of Quiet | 25–36 | 66,000 | Months 3–4 | Conspiracy and court case; restore Zach's estate, expose siphoning |
-| IV: The Other End | 37–48 | 70,000 | Months 5–6 | Koth recovery adventure; retrieve witness and prove the network's function |
-| V: The Open Secret | 49–60 | 70,000 | Months 7–8 | Coordinated attacks; break antagonist's control, prove countermeasure |
-| VI: What Remains | 61–72 | 67,000 | Month 9 and short coda | Concurrent rescue, battle, repair; close all promised conflicts |
+| I: The House That Kept Its Hours | 1–16 | 88,000 | Weeks 1–3 | Domestic re-entry; first doubled-minute pockets; someone is buying the war's wreckage |
+| II: The Market for Second Chances | 17–32 | 89,000 | Months 1–2 | Auction/black-market investigation; Zach's lawsuit; a broker's price |
+| III: The Eleven-Minute House | 33–48 | 89,000 | Months 2–4 | Siege-rescue inside a held field; the first proof that people are being spent |
+| IV: What a Person Costs | 49–64 | 89,500 | Months 4–6 | Copy-rights and Church dispute; a stolen copy; Zorian's own temptation |
+| V: The Other End of the Road | 65–80 | 89,500 | Months 6–8 | Koth adventure: recover the copy, gate politics, foreign workshops |
+| VI: The Bureau of Losses | 81–96 | 89,500 | Months 8–11 | The antagonist named and argued with; detection method; institutional rot |
+| VII: The Argument | 97–112 | 89,500 | Months 11–14 | He half-agrees; a partial reset; the truth told on purpose |
+| VIII: All the Liars of the Road | 113–128 | 89,000 | Months 14–18 | Manhunt and coalition; the brood; Elayer's decision; the trap |
+| IX: The Last Eleven Minutes | 129–144 | 89,000 | Months 18–22, plus a months-later coda | Infiltration, the held people, the lever pulled by the right hand; settlement |
 
-Total working budget: **403,000 words**. Monitor actual scene and word counts after each installment. A chapter normally contains three or four developing scenes, not one conversation stretched to 5,500 words. The synopsis gives its decisive turn; other running threads appear as consequential secondary scenes.
+**Serialization rule (reader's instruction, replaces the old "close something every chapter" rule).** A chapter is one piece of a larger whole. It may end mid-sentence, mid-fight, or mid-argument, and it may deliver no closure at all — provided the *world* moves: a decision taken, a cost paid, a clue spent, a relationship changed. Closure is scheduled at **part boundaries**, and every promised thread has a ledger row (§8). A chapter must never feel like padding; it must be load-bearing for a thread that outlives it.
 
-Suggested emphasis: 45% mystery/action, 25% Academy/research/enterprise, 30% relationships/household/politics, with overlapping scenes. Include warmth, curiosity, humor, attraction, and successful magic. Zorian is not repeatedly scolded for being capable.
+Balance per part, approximate: 30% domestic/relationship/school, 30% investigation and craft, 25% political/institutional, 15% action and danger. Warmth is a structural requirement, not decoration: the reader should feel at home in Imaya's kitchen and the Academy's corridors repeatedly, not only at the start.
 
-## 3. Fixed mystery and active opposition
+## 3. The spine: a second chance, bought by the pound
 
-### Before the story
+### Before the story (fixed solution, decided now)
 
-The **Boundary Lattice** is new sequel worldbuilding: a regional, ancient, mortal-built network in deep Altazian tunnels. It is not the Sovereign Gate, a god-machine governing the world, or a second time loop. Ordinary spellwork diverts selected magical fauna along feeding and pressure-relief routes. Its builders used survey records from several continents, explaining the relevant Koth archive without inventing an underground tunnel across an ocean.
+The loop was destroyed, but its **engineering** survived in three places: surviving frame geometry (Ibasan, Bakora, and Quatach-Ichl's stabilisation frames were all built from a shared language of interlocking regulators), published and unpublished **time-magic theory** (the buried facility under Cyoria and its seized notes), and **minds that remember** what a loop feels like from the inside.
 
-Some stations became foundations for later wards. Modern engineers use fragments without knowing their original function. Before the invasion, contractor **Darel Voss** was already extracting mana through buried nodes. He sold regulated power and repairs, suppressed maintenance reports, and learned just enough to conceal diversions. The invasion destroys oversight and creates a reconstruction market. His expansion is deliberate; a royal official's desire for cheap military supply protects him.
+**Otokar Vrana**, chief registrar of the **Provisional Bureau of War Losses**, has spent the peace doing one thing: assembling a **bounded loop** small enough to hide — one district, one day, run once — so he can relive the day of the attack and pull his daughter out of it. He is not a madman and not a mage of note: he is a **logistics genius** who runs the machinery that decides which war losses are "unrecoverable". That office is his instrument. He pays for components with compensation money that belongs to families he has already written off; he sources test subjects from the same lists; he does not experience this as cruelty but as bookkeeping. His early experiments are **scar fields**: failed, unsustained loops that trap an address in its own last minutes — eleven minutes, forty seconds — and keep them running on whatever mana the frame can scrape up.
 
-The altered grey hunter travels deeper, displacing ordinary predators upward through weakened routes. **Early incidents involve displaced ordinary creatures and an already damaged network, not instant mutant swarms.** The mother has one altered clutch, hatching during Part II. Offspring mature over months; no uncontrolled exponential reproduction in days.
+**Hard constraint:** nobody but Zorian and his simulacra has loop experience. Jornak is dead (his own death pact; his contingencies were dealt with at the time) and must never be reintroduced as a source of the collector's theory. Vrana's theory comes entirely from the buried facility's seized notes plus surviving frame geometry, which is why he can build and cannot hear: he has no trained time-sense, so he runs blind and pays for it in failed attempts. Zorian is the only living person who can hear a field's frame from the inside, and that is why the story's problem cannot be solved by the Bureau.
 
-### Why the brood is dangerous
+He is **right** about the physics and **wrong** about the price. A bounded loop at the size he wants cannot be paid for by the frame: it needs an **anchor** — a trained time-sense with a stable self-model, spent completely — and it needs the held people to be given up as fuel. He has been telling himself he can cheat that. The reader should be able to see, from Part III on, that he cannot.
 
-Established grey-hunter traits already make them formidable. The inherited alteration adds a limited ability: prolonged contact with a repeated ward pattern lets them learn its stable phase and pass through at favorable intervals. They cannot ignore every spell, teleport anywhere, read minds, or manufacture primordial essence. Altered tissue contains a finite energy source; adaptation has a visible metabolic cost. Feeding and movement leave measurable paired pulses, distinguishable from the older machinery's paired discharge.
+### Why simulacra are central (and capped honestly)
 
-Count the clutch on discovery: **six eggs**; two fail to hatch, four hatch. One juvenile is killed in Ch. 22; one is found dead in Ch. 47; one is captured in Ch. 58; the fourth is killed in Ch. 65. The mother is killed in Ch. 66 and the lair searched. The captive receives a definite long-term disposition in Ch. 68. No omitted egg becomes a closing sting.
+Zorian uses copies constantly from Chapter 1 — teaching, fabrication, errands, running his claim — because that is exactly what he is good at. The limits are the source's own and are stated in-scene early:
 
-Zorian's mind magic, simulations, dimensional skills, golems, and parallel work are used intelligently; Zach wins important battles. The difficulty is finding nodes in unknown geography, reconstructing erased measurements, defeating moving targets that learn repeated defenses, and protecting several places at once. A blocked route displaces existing predators; this is discovered once and then exploited, not relearned in repetitive failed nest clearances.
+1. **Mana.** Upkeep is continuous, spell costs come out of him, and his reserves are measurably worse with each copy standing. In Part III this is a tactical fact, not a footnote: a fight with three copies out is a fight with a much weaker Zorian.
+2. **Attention.** Copies initiate. They make plans, accept invitations, spend his money, and start arguments (canon: the Akoja tea house). More copies means more negotiators he must answer to.
+3. **No free knowledge.** Outside the loop nothing folds their experience back into him. Learning crosses by writing, dictation, teaching, or **memory crystals** — which are rare, expensive, and hard for non-psychics to use.
+4. **Morality and law.** A copy persists. It ages, learns, is attached to people, and cannot be recalled without ending somebody. During the war he spent copies the way the enemy spent copies; he refuses to do that in peacetime, and the sequel makes that refusal cost him real advantages. A copy of him is also, to the Bureau and to Elayer, evidence of an abomination — every copy visible in the street is a political act.
 
-### Voss: agency rather than superior power
+Standing allocation through most of the book: one copy resident in **Koth** (canon, later named), one at home, plus short-lived local copies made for a specific job when the maths allows. The **Akoja** complication from the Epilogue is honoured, not erased: a copy's relationship is somebody's relationship, and the three of them must actually talk about it (Ch. 9, 49, 60, 91, 112, 143).
 
-Voss first appears through supply records, then as a useful seller. He wants to retain contracts and avoid prosecution for lethal diversions. Initially he rationalizes damage as repairable. After learning the brood can damage competitors' fixed wards, he deliberately redirects migration toward unregistered tunnel communities. This is a moral escalation, not a last-minute revelation of innate evil.
+### Scar-field mechanics (fair play, no handwaves)
 
-He forges readings, destroys an archive, purchases compromised salvage, and offers Zorian a profitable partnership. He cannot outduel either hero. His defenses are distributed machinery, partially informed accomplices, endangered industrial workers, and the fact that abruptly disconnecting pumps harms civilians. Mind reading yields what he knows, but cannot reconstruct measurements he never took. Capturing him ends his ability to direct attacks in Ch. 60, but does not instantly repair the damage. No escape for sequel bait.
+- A held field repeats a fixed span with fixed objects; people inside keep their **positions and injuries** but not their memory of repetitions — except one person who can. Objects crossing the boundary break the field's bookkeeping, which is how a rescue is even possible.
+- Fields are **parasitic**: they feed on ambient mana and decay; each repetition frays the frame, so every rescue attempt is a race against a device that is already failing.
+- Zorian can sometimes *hear* the seam — his internal clock was trained by the loops and it stutters near a field — but this sense is **unreliable and produces false positives**, so all real evidence is instrument, ledger, and testimony based (clock ticks, bell offsets, double-boiled kettles, aranea sweep records).
+- Killing the anchor stops a field but **does not release the held people**; they stay running on the frame until it is properly dismantled. This distinction is planted in Part III and is the whole climax of Part IX.
 
-### Angel: difficult ally, not a broken promise
+### What is not allowed
 
-Kylae Kuosi arranges contact; Alanic helps. The original angel confirms the old contract is finished and its undertaking stands. The **new** dispute concerns surviving primordial contamination. It favors destroying a deep region before the inherited traits become harder to contain. Its manifestations and intervention remain limited by the original's constraints.
+No new time loop that erases the reader's story; no reversal of the original victory; Panaxeth stays imprisoned; the gods stay silent; the angel cannot casually rewrite divine magic and is bound by its old undertaking; the coda's attacker on the altered mother is never identified; no character discovers the loop from thin air; the Bureau's machinery must be defeated with evidence, testimony, engineering, and a choice — not with a bigger spell.
 
-Its plan has a defensible safety case but unacceptable collateral costs. It supplies an assay and a deadline tied to observed development, not a renewed death sentence for Zach. The heroes must demonstrate an alternative. The angel accepts evidence and honors its agreement in Ch. 68. No primordial is released; the gods remain silent.
+## 4. Plotlines and their windows
 
-### Fair clue ladder
+| # | Plotline | Opens | Develops | Closes |
+|---|---|---:|---|---|
+| A | The scar fields / the collector | 1 | 4, 8, 12, 15, 22, 26, 33–48, 61, 77, 94, 106, 115 | 139–141 |
+| B | Vrana and the Bureau's books | 6 | 13, 16, 20, 24, 30, 51, 81–90, 96 | 133, 141, 143 |
+| C | Copies: rights, names, relationships | 1 | 2, 9, 11, 41, 49–52, 60, 64, 71, 88, 91, 99 | 122, 137, 143 |
+| D | Kirielle's education and independence | 1 | 3, 5, 14, 27, 35, 53, 66, 74, 92, 104, 118 | 140, 144 |
+| E | Koth: the gate, the wedding, the adepts | 16 | 37, 42, 55, 65–74, 79–80, 86 | 137, 142 |
+| F | Zach, Tesen, and the estate lawsuit | 7 | 17, 23, 29, 44, 51, 76 | 76, 130 |
+| G | The Academy: placement, review, the book | 3 | 10, 14, 21, 31, 46, 58, 67, 83, 95, 104, 111 | 138 |
+| H | Money, Mrva, the licensed workshop | 2 | 6, 18, 25, 34, 43, 56, 78, 93, 101 | 131, 138 |
+| I | Elayer's investigation and Zorian's exposure | 8 | 19, 32, 48, 63, 82, 97, 108, 120 | 126, 134, 143 |
+| J | Aranea: charter, sweeps, scapegoating | 15 | 22, 36, 45, 57, 70, 84, 102, 116 | 119, 137 |
+| K | The grey-hunter brood and the collectors of monsters | 12 | 28, 38, 54, 62, 87, 100, 114 | 124–125, 143 |
+| L | Princess, the flock, and the northern forest | 2 | 18, 34, 56, 69, 90 | 121, 144 |
+| M | Raynie: her tribe's claims, and her own life | 3 | 20, 33, 47, 65, 73, 91, 105, 117 | 110, 136, 144 |
+| N | Akoja: study, family, and the copy problem | 1 | 9, 27, 49, 60, 91, 112 | 112, 143 |
+| O | Family: Daimen, Orissa, parents, Fortov's trade | 6 | 16, 27, 39, 55, 72, 75, 89, 109, 118 | 128, 142 |
+| P | Church, trauma, and what may be erased | 11 | 40, 46, 50, 59, 78, 85, 99, 107 | 135, 140 |
+| Q | Xvim, memory crystals, and who may be told | 15 | 30, 45, 52, 63, 82, 98, 107, 110 | 126, 143 |
+| R | Enemies abroad: Oganj, the orb, Quatach-Ichl, Sudomir's remnant | 16 | 37, 68, 71, 77, 86, 96, 113 | 123, 137 (contained, not defeated) |
 
-1. Ch. 1: a reconstruction anchor contains older paired geometry; a second pulse persists after the rescue. Too little to identify the cause.
-2. Ch. 4: a related survey device is blamed for a Koth accident. Its sealed calibration witness cannot yet be recovered.
-3. Ch. 7, 11: supplier readings disagree with physical deposits. Newer alterations cover an older working design.
-4. Ch. 16, 20: aranea route memories and sulrothum comparisons distinguish feeding routes from walls, using different terminology.
-5. Ch. 22–24: a juvenile's behavior and successful evacuation prove adaptation and routing, not generic invulnerability.
-6. Ch. 29–36: invoices and interference establish extraction. This explains damage, but not the brood's origin.
-7. Ch. 38–39: recovered baseline data exonerate an early suspect and show reversal predates the brood.
-8. Ch. 45–47: the lair and Silverlake's testimony connect contamination to the original ending and fix the clutch count.
-9. Ch. 51–58: variable-phase wards defeat adaptation in trials and a costly live capture. Materials, timing, and failure modes are learned before the climax.
+## 5. Cast
 
-## 4. Cast with independent goals and outcomes
+### New recurring
 
-### New recurring characters
-
-| Character / entrance | Goal, personality, expertise | Conflict and change | End-state |
+| Character | Entrance, goal, expertise | Conflict and change | End state |
 |---|---|---|---|
-| **Mara Vesk**, Ch. 1; reconstruction surveyor, early thirties | Get her crew home and preserve her professional standing. Dry, concrete, writes times on her cuffs. Expert in aging foundations and load wards, not combat. | Blamed for an accident; needs defensible evidence, not invisible corrections. Trust grows through fieldwork. Injured rescuing a worker in Ch. 12; accepts responsibility for a separate real oversight. | Exonerated of sabotage in Ch. 39; regional maintenance lead in Ch. 67. |
-| **Selin Var**, Ch. 5; older Academy student | Needs a paid qualification to support her family. Competitive, impatient with unpaid favors. Excellent measurement discipline, ordinary mana reserves. | Suspects stolen credit; publishes too early in Ch. 17 and helps repair the consequences. Refuses a lucrative contract that conceals failures. Not a disposable romantic rival. | Qualified researcher and credited coauthor in Ch. 69. |
-| **Darel Voss**, records Ch. 7, in person Ch. 17 | Protect a reconstruction business; polished, generous when generosity buys control. Skilled logistics engineer. | Moves from concealment to coercion and deliberate diversions. Anticipates some hero moves and offers tempting compromises. | Captured Ch. 60; prosecution and compensation order Ch. 67. |
-| **Keeper of the Last Crossing**, Ch. 13; smaller aranea web's leader | Protect her home from creatures and Spear of Resolve's territorial ambitions. Blunt, wary of both human and aranea powers. | Refuses to sell routes, then trades limited access for a verifiable rescue. Disagrees without becoming a villain. | Web retains its home and gains representation in Ch. 54 and 67. |
-| **Lethan Sorev**, Ch. 18; Crown strategic-supply liaison | Provision the retaliatory expedition. Disciplined patriot equating secrecy with security. | Protects Voss's cheap supply, then must choose evidence over an order sacrificing civilians. Changing sides does not erase complicity. | Testifies Ch. 60; removed from procurement and sanctioned Ch. 67. |
-| **Ivena Tal**, Ch. 30; adult reconstruction medic | Manage an intrusive invasion memory without losing useful experience. Wry, practical, skeptical of grand claims. | Requests help, challenges Zorian and his critics, chooses a limited intervention rather than blanket erasure. | Returns to practice on her terms Ch. 55; follow-up Ch. 69. |
+| **Otokar Vrana**, records Ch. 6, in person Ch. 24. Chief registrar, Provisional Bureau of War Losses | Buy back one day. Tireless administrator; no combat magic; unrivalled at ledgers, supply, and patience | Never monologues cruelty: he books human beings as "unrecoverable" and calls it mercy. When the held people turn out to include the daughter he is trying to save, he cannot stop | Ch. 139–141: his machine dismantled; he pulls the last lever himself; Ch. 143 stands trial and is refused the comfortable version of his story |
+| **Berta "Beka" Dolejš**, Ch. 5. Apprentice horologist, seventeen, orphaned by the attack | Clear her dead master's shop debt and keep the shop. Precision work, escapements, patience with tiny things | Her clocks are the first instruments that measure the fields; she is used as a supplier and then as a suspect; she publishes her measurements too early and must live with the fallout | Licensed clockmaker and credited coauthor Ch. 138; keeps the shop Ch. 144 |
+| **Anselm Kreiz**, Ch. 7. Salvage and auction broker | Money, and a comfortable deniable position | Sells to both sides, informs when it pays, and is genuinely afraid of Vrana's machinery rather than of Zorian | Pays a heavy fine and gives the register that breaks the Bureau's paper trail Ch. 133; not forgiven, useful |
+| **Magistra Zdena Havlova**, Ch. 10. Academy enchanting instructor, review board | Standards: nothing new goes into use until it can be repeated and named | Blocks Zorian's shortcuts, then protects his work when the Bureau wants it; her review is the difference between a device and a licence | Signs the book and the workshop licence Ch. 138 |
+| **Vojta Riedl**, Ch. 6. Bureau field assessor | Keep his post through the audit; feed his sister's household | Writes the lists; knows exactly what the lists are used for; chooses late, at real cost to himself | Testifies Ch. 126; loses the post, does restitution work Ch. 140 |
+| **Sister Maruna**, Ch. 40. Church healer working invasion trauma | Treat people without erasing them | Wants Zorian's help; rejects both blanket forgetting and forced remembering; her patients are participants, not cases | Runs the trauma clinic Ch. 140 |
+| **Adept Shu-Lian**, Ch. 68. Silent Doorway Adept of the Koth end | Contain what the new gate lets through | Hates Zorian's improvisations, then must rely on them; keeps her order's own secrets and prices | Signs the gate charter Ch. 137 |
+| **Eight-of-Cinders**, Ch. 22. Aranea web-keeper of the northern forest | Keep her web's claim while the flock, the loggers, and the city all want the same trees | Disagrees with Spear of Resolve and with humans; trades sweep routes for a written claim | Web's claim written into the forest charter Ch. 121, implemented Ch. 137 |
+| **Beran Horak**, Ch. 15. Salvage-office clerk | Keep the register accurate while everyone lies to him | Small, careful, incorruptible, frightened; his book becomes evidence | His register is entered Ch. 133; he is pensioned off and unrepentant |
 
-These are sequel inventions. Introduce them through decisions and actions, not biographical exposition. Any new named minor character given an unresolved goal must receive an outcome in the ledger.
+Minor named characters with a goal must receive an ending in the ledger before the next chapter is drafted.
 
-### Returning characters with active roles
+### Returning characters, with their own stakes
 
-- **Zorian:** A formidable mage with good reasons for privacy. New technical learning: uncertainty-aware sensing, fault-tolerant remote control, long-duration artifice, distributed ward engineering. Prototypes have measurable gains and losses. He also wants money, affection, a workshop, and time to think; his arc is more than a lesson in consent.
-- **Zach:** Friendship continues, with a sore point. Specific apology and mental boundaries in Ch. 6; tactical disagreement in Ch. 21; trust demonstrated in Ch. 24. His lawsuit supplies an independent successful arc through Ch. 33. Later conflicts do not reset the apology. Give him strategic ideas, humor, victories, and a social life of his own.
-- **Kiri:** Continue existing lessons. Drawing is an interest, not an excuse for child-genius solutions. She makes a simple image charm in Ch. 9 and pursues an illustrated project. Her later complaint concerns a simulacrum substituting for a promised family outing, not exposure to implausibly dangerous beginner exercises. She contributes one observed detail; experts interpret it.
-- **Raynie:** Her rescued brother and promises to her tribe drive an independent political problem. Present-day contact at Ch. 8, 16, 25, 37, 43–44, 53, 58, 70. Zorian privately explains the loop in Ch. 44; she has substantial time to respond. They choose a relationship in Ch. 58, which is then tested by events. Include affection and attraction, not only ethical negotiations.
-- **Akoja:** Organizes study and safety records. Resolve her father's misunderstanding in Ch. 9. She admits her feelings in Ch. 25; Zorian answers clearly. Her achievements and friendships continue afterward, without a humiliating love-triangle exit.
-- **Kael and Kana:** The laboratory needs repairs and permits. Kael investigates his mysterious research notes; Zorian explains their origin in Ch. 30. Kael insists on independently reproducing results. His assays distinguish residue from active contamination. Kana has an ordinary child's household life, not a repeated hostage role.
-- **Xvim, Ilsa, Edwin:** Advanced mentoring, institutional access, fabrication, and technical disagreement. Xvim already has reason to know much more than the public. Ilsa cannot sign false qualifications. Edwin contributes testing without being an unexplained expert in Zorian's unique creations.
-- **Spear of Resolve, Novelty, Tinami:** Already diplomatically active. Novelty's classroom observation tests accessibility; she is an adult, not a child mascot. Tinami's House Aope priorities sometimes conflict with independent aranea representation. Spear's potential displacement of another web is a real dispute, settled in Ch. 54.
-- **Taiven:** Leads paid field teams, makes tactical choices, benefits professionally, sometimes refuses the heroes' schedule. She is not repeatedly endangered just to showcase Zorian.
-- **Daimen, Orissa, Alanic:** Daimen and Orissa handle gate trade and their families; Orissa participates in decisions about her own marriage. Alanic balances Church obligations and friendship; he is not a universal permission dispenser.
-- **Fortov and parents:** Remedial work and practical aptitude assessment lead to an alternative career, not sudden academic genius. A Ch. 41 setback precedes paid placement in Ch. 59. Parents accept Kiri's continued study in Ch. 43 and lose their veto over Daimen's marriage, but retain difficult personalities.
-- **Foreign returns:** Taramatula people and the Koth gate are integral to Part IV. Lukav advises on altered creatures in Ch. 20 and 45; verify his source circumstances before drafting. The sulrothum high priest negotiates information in Ch. 20, delivered and paid for in Ch. 40. Oganj still possesses the orb; a limited information bargain closes in Ch. 40, without recovering it. Quatach-Ichl and Sudomir remain alive abroad; the limited retaliatory campaign is a political thread, not a promise to defeat every surviving original enemy.
+- **Zorian** — archmage-level mind mage and engineer, still publicly a strong third-year. New craft: instrumented time-sensing, fault-tolerant remote work, copy management as a people problem, licensed manufacture. Wants money, time, affection, and a workshop. His arc: a man made of a second chance he never asked for must decide whether anyone may be spent to buy one.
+- **His copies** — characters, not tools. They number themselves by habit and choose names when they want them (the Koth copy asks for and gets one, Ch. 74). Grievances: no say in being made; no say in being recalled; no share in what they learn; treated as alibis. Their rights question is decided in-story (Ch. 122, 137) and changes how he works afterwards.
+- **Kirielle** — lessons continue from the source, at the source's level: small supervised results, real difficulty, no prodigy shortcuts. Wants a friend and a project of her own; Beka's shop is where she gets both. Argues with him about copies and about being left with a substitute (Ch. 53, 92).
+- **Zach** — friend with a sore place, a lawsuit of his own, and a talent for logistics he refuses to lend to the Bureau. His victory in Ch. 76 is his, not Zorian's. The angel thread (Ch. 49–50, 96) is his business and he is furious that it is not.
+- **Raynie** — home, then back; her tribe's itemised claims and announced speeches are a real political problem she handles herself. She is not a prize at the end of the maze: the relationship is negotiated with time, humour, and a decision she makes in Ch. 110.
+- **Akoja** — study group organiser, ambitious, funny, already entangled with a copy. She demands to be told which person she is talking to and refuses to be polite about it. Her own career advances regardless of who Zorian is (Ch. 111, 138).
+- **Xvim** — knows most of it, has the memory crystal, and pays for it: Elayer's inquiries land on the aranea because of him. Argues against helping Vrana on principle, and is the one who says the worst true thing about Zorian (Ch. 98).
+- **Ilsa, Edwin, Kopriva, Briam, Taiven, Imaya, Kana, Nochka, Rea** — the household and the study group stay present and useful: commissions, fabrication, gossip, command, cooking, children, and honest rebukes. **Princess** and **Mrva** keep costing him money and attention.
+- **Daimen, Orissa, Alanic, the parents, Fortov** — gate trade, a wedding on their own terms, Church obligations, a failed scholar redirected into a trade apprenticeship (Ch. 109, 128).
+- **Elayer Inid** — the crown's investigator, patient and clever. He is not fooled by the "gifted student" story and never guesses the loop; he builds a case out of witnesses, engineering, and paperwork, and must decide what the crown needs before he decides what the truth is (Ch. 126, 134).
+- **Spear of Resolve, Novelty, Tinami, Silverlake, Lukav, Oganj, Quatach-Ichl, Sudomir's remnant** — diplomacy, information bargains with prices, scapegoating, and a containment policy. Nothing here is "won"; all of it is managed.
 
-## 5. Chapter architecture
+## 6. Chapter architecture
 
-Each synopsis gives a decisive change, not the chapter's sole scene. Secondary stories continue between their headline chapters. Plan multiple scenes with distinct objectives; do not stretch a single outlined conversation to the word target.
+One line per chapter: the decisive turn, not the whole chapter. Secondary lines keep moving in between. Chapters may end unresolved.
 
-### Part I — Necessary Repairs (1–12)
+### Part I — The House That Kept Its Hours (1–16)
 
-1. **After the Moon.** On the walk home, a reconstruction ward fails at a shored cellar. Zorian and Mara free a trapped worker; he conceals the scale of his help. The rescue closes, leaving older paired geometry, a persistent pulse, and a witness statement. At home Kiri demands her promised lesson time. A morning request and a second site reading turn a favor into a paid problem.
-2. **A Budget for One Person.** Account for reserves, Mrva storage, living expenses, and research. Ilsa's referral enables a limited diagnostic commission, not false licensing. Zorian must produce proof others can verify. Raynie departs for home as planned in the Epilogue.
-3. **The Next Lesson.** Kiri's ongoing training brings a modest success and a failed trick. Kael and Zorian examine debris; Imaya requires a household schedule. Deposits prove the anchor defect predates the rescue. Develop the existing book draft.
-4. **The Sealed Witness.** A related survey instrument is blamed for a Koth route accident. Its sealed calibration witness was lost with equipment; the surveyors survived. Recovery needs seasonal access, a guide, and reliable location data. Zorian accepts a specific new task, with a review date and clear payment terms. This replaces the invented "Silverlake errand."
-5. **A Familiar Classroom.** About a week has passed. The Academy reopens; Novelty observes classes. Zorian tests out of selected exercises but accepts an instrumentation project with Selin and Edwin. Their sensor gives a repeatable wrong answer. Establish Akoja's continuing organizational role.
-6. **Terms of Contact.** Zach and Zorian joke, then discuss the deception and set mental boundaries. Zach requests one limited estate-record check rather than rescue from his lawsuit. A joint technical test locates a buried junction.
-7. **What the Stone Remembers.** Physical wear contradicts supplier readings; Voss's company appears in the records. Taiven finds displaced ordinary predators. Kopriva reports inquiries about Zorian's earlier sales. Keep origin and mechanism distinct.
-8. **Letters with Teeth.** Raynie's letter describes competing tribal demands. Attempted sample theft becomes a pursuit; the thief has instructions, not the entire conspiracy in his memory. Recover the sample and identify the buyer.
-9. **A Place at the Table.** Resolve Akoja's father's misunderstanding with embarrassment and proof of her progress. Kiri completes an image charm. Kael opens a usable laboratory room. The sample buyer proves to be a repair broker concealing a supply shortfall.
-10. **Below the Closed Street.** Taiven leads a survey; missing workers lie beyond a collapsed mapped route. Zorian scouts and prepares an extraction route. Teleportation is useful once people and coordinates are located, not arbitrarily disabled.
-11. **The Counterweight.** Mara and Selin trace load paths while Zorian protects the trapped workers. Deliberate underfeeding of a newer mechanism threatens two sites. Prepare a coordinated release, not a blast that shifts the collapse elsewhere.
-12. **Everyone Accounted For.** Rescue the workers and stabilize both streets. Mara is injured extracting someone. Independent records preserve evidence despite confiscation. The local emergency ends; the old line continues far below the district.
+1. **Two Mornings on Vrabec Row.** Household morning: Kirielle's lesson in the yard, Imaya's board of promised evenings, study-group noise — and a copy of Zorian who has accepted a tea-house meeting with Akoja without asking him. On Vrabec Row a baker's wife swears she lived forty seconds twice.
+2. **The Cost of Copies.** Why he keeps the number he keeps: mana maths at the table, and what a copy's spell costs him. A letter from the Koth copy. A salvage cart carries a brass regulator that ticks half a second late, and nobody will say where it came from.
+3. **The Board by the Door.** Academy reopening announced; Akoja's attendance count; Kopriva repeats that a stranger asked about war mages; the baker's husband describes a click inside the wall that happens when nothing moves.
+4. **Kettle, Twice.** Dawn on Vrabec Row: one house's kettle boils twice, one bell is a minute late in one kitchen only. Zorian finds the seam, refuses to tear it, and goes looking for the object that is holding it.
+5. **The Clock Shop.** Beka's shop; her dead master's debt. Three repairs of the same regulator design in six months for different customers — the same work, different owners. Kirielle watches, and asks the useful question.
+6. **What the Bureau Owes.** The war-loss office: Riedl's desk, Vrana's signature, a family paid in "recovered articles" instead of coin. Zorian's own cap forces a real decision about Mrva's storage.
+7. **War Curiosities.** Kreiz's auction of battlefield salvage; a broken clock sells for a fortune to a proxy. Zach asks for one narrow favour connected to Tesen, and gets it.
+8. **The Investigator's Manners.** Elayer interviews Zorian as a witness and an intermediary, not as a suspect. Careful, pleasant, and writing everything down. A refugee tells of a road that ended twice.
+9. **Tea House Rules.** The Akoja complication faced directly, with wit and damage. Zorian sets terms with his own copy — and finds out the copy has terms of his own.
+10. **What Beka Measured.** The regulator's escapement is new, not salvaged, and machined to tolerances the Academy cannot repeat. Havlova forbids taking it apart without review, and offers terms instead.
+11. **Imaya's Table.** A full household night — cards, children, Taiven's stories, Xvim's arithmetic. The copies' grievances are aired at a home table and a written household agreement about copies is drawn up.
+12. **Forty Seconds.** The first real rescue: the baker's wife inside her own minute. One attempt fails and costs a reagent he cannot replace; she comes out; the holding object is gone before he can seize it.
+13. **The Man Who Paid Twice.** Kreiz's ledgers show a buyer paying double for broken clocks, and paying from a source no private purse explains. Riedl's name appears on the paperwork.
+14. **The Academy Opens.** Classes, Novelty observing, a placement fight over how much of the third year he may skip, and Edwin's estimate for Mrva's frame arriving with a number Zorian refuses to look at.
+15. **The Count.** Eleven reports of doubled minutes in six districts since the attack; Xvim's cranium-rat sweeps confirm two more; every site lies near an old shaft that once carried mana from under the city. The Bureau issues a notice claiming all war salvage for study.
+16. **Someone Else's Claim.** The Bureau takes Vrabec Row and Zorian's notes with it. He makes three copies of his evidence and gives them to three people he does not trust equally. From Koth: something has been asking about the man who remembers the loop.
 
-### Part II — The Country Below (13–24)
+### Part II — The Market for Second Chances (17–32)
 
-13. **The Last Crossing.** Keeper denies access until her web's claim is respected. Spear wants the tunnels as a refuge. Negotiate temporary access and rescue terms without giving away someone else's home.
-14. **An Exit Behind Them.** An expedition route closes as ordinary creatures migrate. Scouts find an alternative. Supplies, actual distances, mapped teleports, and protection for noncombatants make the challenge concrete.
-15. **A Country Without Roads.** Find a functioning station and rescue stranded hunters. Mapping automata help, but fixed sensors misread an old cycle. The station redirects rather than simply attacks.
-16. **Borrowed Promises.** Raynie returns and works through one obligation to the cat and pigeon shifters. Parallel expedition work compares species-specific route descriptions and gains a map segment. Her tribe is not secretly responsible for the main plot.
-17. **The Man Who Could Supply It.** Voss offers materials and income. Selin publishes too early to secure qualification, exposing their survey area. His offer assumes information she did not publish. Family correspondence tracks Fortov's remedial progress.
-18. **The Investigator's Questions.** Elayer interviews Zorian as an intermediary and witness, not a known archmage. Sorev blocks strategic-supply records. Elayer detects a genuine omission without deducing the loop from thin air.
-19. **The Mouth of the Nest.** First altered juvenile encounter. Conventional attacks hurt it; repeated fixed barriers become less reliable. Escape with evidence. One encounter does not reveal the whole ability.
-20. **Two Kinds of Hunger.** Lukav and a negotiated sulrothum comparison suggest adaptation with costs. Set the foreign bargain's price. Zorian drafts a concrete mind-magic method distinguishing sensed activity from inference.
-21. **The Ground They Hold.** Zach proposes destroying a choke point; Keeper explains who would be trapped. Test alternatives. Zach devises a moving defense; he is not a weapon waiting for Zorian's instructions.
-22. **The First Kill.** Zach kills one juvenile while Taiven and Zorian evacuate a trapped group. A hard, intelligible victory. The corpse reveals metabolic costs and supplies Kael's assay material.
-23. **A Debt with an Address.** Fulfill the rescue bargain. Novelty learns why other webs distrust Cyoria. Zorian obtains his Koth guide's availability and pays for preparations: a meaningful return to the deferred task.
-24. **Lines on the Map.** Combined surveys identify the Boundary Lattice and an extraction point. The isolated web's immediate danger ends. Zach and Zorian's boundaries have worked under pressure; close this stage of reconciliation. A stolen reading points into legal commerce.
+17. **Letters and Intermediaries.** Raynie's first letter, itemised claims and an invitation she cannot refuse; the Koth copy's answer to the questions about him; a plan to sell information rather than objects.
+18. **The Workshop Bill.** Money: a licensed workshop is the only way to pay for what the fields cost. Havlova's conditions, Kreiz's commission, and a flock that has frightened horses again.
+19. **Two Watches, One Bell.** Instruments built properly: Beka's escapements, Havlova's review, aranea sweeps. The first detector gives a false alarm and nearly costs a street its good name.
+20. **What the Tribes Will Trade.** Raynie's obligations worked through in person; cat and pigeon shifters want announcements, not money; a claim about a road that ended twice is bought from a carter.
+21. **Review.** Zorian's device is rejected, rewritten, and accepted; a second copy is made for the work and the household immediately feels the cost. Kirielle asks to be taught the boring part.
+22. **The Ash-Web's Price.** Eight-of-Cinders will not sweep for free; Spear of Resolve wants the same forest. A trade is written with duties, not flattery.
+23. **Tesen's Lawyers.** The lawsuit gets ugly: a witness is bought, and Zach handles it himself without telling Zorian, which is the right call.
+24. **The Registrar.** Vrana in person, polite, generous, and buying clocks. He offers to fund Beka's shop debt, and Beka hesitates. Zorian recognises the shape of the offer.
+25. **A Proper Sale.** The first lawful sale of Zorian's design: certification, batch limits, a named price. It earns exactly enough to be annoying and not enough to be safe.
+26. **The Second Field.** A whole house held for eleven minutes, discovered too late to save its owner. The house is fenced, the Bureau arrives with forms, and the forms are faster than the rescue.
+27. **Family Meeting.** Daimen and Orissa's wedding terms argued with the parents and the gate families; Fortov's exam results; Kirielle's school application; a promise made that will be hard to keep.
+28. **Collectors of Monsters.** Altered grey-hunter parts on the market, and a buyer who wants live specimens. Lukav's price for identifying what is altered and what is merely new.
+29. **Zach's Ground.** Zach's side of the lawsuit, with his own plan and his own risk; the estate's accounts reveal a payment stream that comes from the Bureau's compensation fund.
+30. **Xvim Asked.** Elayer's questions reach the aranea because of Xvim; Xvim answers in a way that costs him, and tells Zorian something he has not said out loud before.
+31. **The Copy Who Ran Errands.** A working chapter of near-success: three fields found, one emptied safely, one found too late. Havlova's name on the report is what makes the report stick.
+32. **The Broker's Bill.** Kreiz is caught between buyers and sells the proxy's name — which costs him two warehouses. The name behind the proxy is a Bureau title, not a person.
 
-### Part III — The Price of Quiet (25–36)
+### Part III — The Eleven-Minute House (33–48)
 
-25. **What Was Actually Offered.** A present-day outing with Raynie is enjoyable. Separately, Akoja admits her feelings and receives an honest answer. Voss's investment would solve cash problems but removes diagnostic access; Zorian refuses exclusivity, not earning money.
-26. **Princess's Territory.** Select a forest habitat, respecting Princess's bond. Flock behavior helps assess pressure. A timber concession complicates relocation. Give Kiri a promised ordinary outing that later becomes hard to schedule.
-27. **The Cost of a Name.** Kopriva traces sales to an investigated intermediary. A lawful prototype sale funds materials and records Zorian's name. Sorev wants the design for military use; limits have a financial cost.
-28. **A Place for Monsters.** Relocate Princess using established abilities and prepared transport. Purchase or compensate the disputed concession and set a buffer. The flock stays. Close the housing problem with monitoring, not a vague future promise.
-29. **The Missing Column.** Kael's tests and estate invoices reveal hidden power diversion. Tesen overlaps through financing, not universal conspiracy. Use Zach's lawsuit to obtain authenticated original records.
-30. **Someone Else's Handwriting.** Kael confronts Zorian and learns where his notes came from; they reproduce a result independently. Ivena requests help with an intrusive memory, initiating a clinical thread with her as an active participant.
-31. **The Burning Storehouse.** Voss destroys incriminating stock. A moving fire produces a rescue/evidence-recovery set piece. Zorian saves people with plausible public skills while a simulacrum retrieves records elsewhere.
-32. **The Money That Was There.** A supposed remaining invader cache is a forged lure; expose and close it within this chapter. Kopriva's contacts help connect intimidation to Voss. Bounded mana/artifice sales become viable through certification, batch limits, and distribution.
-33. **Noveda Against Tesen.** Judgment restores estate control and orders restitution, with unrecoverable losses. Zach earns the victory. It does not rain money on Zorian. Judgment constrains further Tesen interference.
-34. **The Weight of Mrva.** Zorian diagnoses his own construct; Edwin and Mara provide fabrication and geological expertise. A distributed-load repair suggests a Lattice test. Commit money and space to staged restoration.
-35. **The Promise Stands.** Kylae summons the original angel. Confirm the old contract and no-punishment promise are settled. New contamination evidence and a proposed deep purge create a separate conflict. Alanic requests evidence, not blind faith in either side.
-36. **What the Instruments Cannot Say.** Evidence suspends one Voss contract; he retains other assets and countersues. The Koth witness is needed for both Mara's case and the model. Seasonal access and guide data now permit departure for the established objective.
+33. **Twelve People, Eleven Minutes.** The held house entered properly: rules shown, two attempts fail, and the frame absorbs a copy. Zorian loses a copy on active duty and feels it as a death.
+34. **What Feeds a Field.** Ambient mana, decay, and the fraying frame: the fields are dying machines. Mrva's parts are needed for a probe; the flock's habitat and the workshop compete for the same money.
+35. **Kirielle's Friend.** Beka's shop becomes Kirielle's second home; a small drawing of a clock reveals a measurement error; Kirielle is given real tools and real responsibility.
+36. **Sweeps.** The aranea sweep finds four fields in a week; the count is rising; the pattern points to someone choosing addresses by list rather than by luck.
+37. **The Gate's Two Ends.** Koth politics through letters and a short visit: trade, the wedding's legal shape, and the adepts' refusal to move "study equipment" without inspection.
+38. **Live Specimens.** The brood thread bites: two altered juveniles loose near the timber road; the Bureau wants them alive and the foresters want them dead.
+39. **What Riedl Wrote.** Riedl's lists: names of the "unrecoverable" whose addresses match the held houses. He did not know, and not knowing is not a defence.
+40. **Sister Maruna.** A Church healer asks for help with invasion memories; Zorian refuses to do anything to people who have not asked him; Maruna's own method is worse and better than his.
+41. **Two of the Same Name.** A copy applies to the Academy in his own name and is refused; the question of what a copy legally is stops being a joke.
+42. **Daimen's Refusal.** Gate privileges offered in exchange for the wedding; Daimen and Orissa refuse in public, and the price is announced.
+43. **The Licence.** The workshop is licensed under Havlova's terms; the first batch is built, sold, and immediately underpriced by a competitor using Bureau contracts.
+44. **Tesen's Offer.** Tesen tries to buy Zorian as an asset; Zach's answer ends the lawsuit's second act and creates an enemy with money left.
+45. **The Witch Who Remained.** Silverlake's price for the seized time-magic notes: a favour that will be named later. Her resemblance to a betrayer makes the negotiation worse, not easier.
+46. **The Advanced Track.** Placement settled: Zorian is out of ordinary classes and into Havlova's review work; Selin Var publishes measurements she cannot yet defend, and Beka's numbers are in it without her name.
+47. **The Held Woman.** Inside the field, one person keeps a thread of memory: a keeper's trick from the loops. Getting her out means a choice about which objects cross the seam.
+48. **The Seam and the Ledger.** The house's field is emptied under conditions and the frame is seized — and the anchor's chair is empty, because the person who ran it was someone the Bureau had already declared dead. Elayer starts his own ledger.
 
-### Part IV — The Other End (37–48)
+### Part IV — What a Person Costs (49–64)
 
-37. **Through the Gate.** Cross via the permanent Koth gate. Orissa insists on local agreements; trade and family interests become tangible. Raynie joins part of the trip for a negotiated exchange, not simply as Zorian's companion.
-38. **The Lost Survey.** Follow the surviving surveyors' route through seasonal flooding and territorial creatures. Local guidance supplies information teleportation cannot replace. Recover the equipment and explain previous failures.
-39. **The Sealed Witness.** Use the procedure established in Ch. 4 to retrieve baseline data. Exonerate Mara of sabotage and date Voss's extraction to before the invasion. Deliver the object and evidence; pay the guide, receive fee and client acknowledgment. The deferred task closes fully.
-40. **The Price of a Comparison.** Complete the sulrothum bargain and a limited Oganj information exchange through intermediaries. The orb stays his. Comparative records prove routing was the Lattice's purpose. Both bargains conclude here.
-41. **What Fortov Failed.** A failed assessment and hidden bill prompt a prepared family conversation. Choose practical placement instead of pretending Fortov is an academic prodigy. He must still repay debts and work.
-42. **The Marriage Contract.** Orissa and Daimen reject gate privileges being attached to their wedding. A trade dispute forces a choice; they commit to marriage without those concessions. Neither is merely Zorian's problem to solve.
-43. **The Terms of Home.** Settle Kiri's residence and lessons for the coming year. Raynie separately resolves the limits of her tribe's obligations and retains her education. Parents receive boundaries, not magical personality replacement.
-44. **An Afternoon That Never Happened.** Zorian explains the loop and remembered date to Raynie. She asks what else he assumed, requests time, and continues her work. Return to Cyoria with the paid, completed commission.
-45. **The Witch Who Remained.** Consult real-world Silverlake about the hunter. Her bargaining and resemblance to a betrayer are uncomfortable; she is not guilty of her double's acts. Buy a bounded ecological insight, with a price paid in this arc.
-46. **The Examination.** Test uncertainty and performance limits at the Academy. Selin and Edwin demonstrate their own work. Zorian qualifies for advanced research and arranges ordinary requirements, resolving pointless classroom repetition.
-47. **Six Shells.** Survey the old egg chamber: six eggs, two dead before hatching, traces of four young. Find a second juvenile dead from over-adaptation. One was killed in Ch. 22; two remain alive. Obtain a trail to them and the mother. Close the origin mystery and pay Silverlake.
-48. **A Different Kind of Countdown.** The angel accepts the assay, predicts further maturation, and grants a measurement-based deadline for an alternative. Voss takes a key station under a military contract, blocking access just as the heroes know what to do.
+49. **Akoja's Question.** Which person is she speaking to? Asked plainly, answered honestly, and the household learns that the answer is not simple. Akoja sets her own condition and keeps her distance on her own terms.
+50. **What Zach Knows.** The angel's interest reappears because of the field work; Zach is furious that his contract is being discussed again and refuses to be protected from it.
+51. **The Bureau Answers Back.** A notice, a fine, and a seizure: Vrana does not threaten, he files. The workshop's competitor is a Bureau instrument; Havlova is reassigned.
+52. **Memory Crystals.** Xvim's crystal, Alanic's, Daimen's: three people digesting a month. What it costs them, what Zorian will not do for them, and what he cannot admit he wants.
+53. **The Substitute.** A copy takes Kirielle's promised outing; she is not fooled and not grateful. The argument is about who gets to decide what her time is worth.
+54. **The Timber Road.** Concession, foresters, Eight-of-Cinders, and the flock: the northern forest settlement is drafted and argued over line by line.
+55. **Wedding Preparations.** Koth and Eldemar families in the same room; Orissa's own terms; a negotiation about the gate that is also a negotiation about a marriage.
+56. **Mrva's Frame.** A real attempt at restoration using the new instruments: partial success, a new walk, a failure that costs money and months.
+57. **The Scapegoat.** Someone must be blamed for the fields: the aranea, because of Xvim and because non-humans are convenient. Spear of Resolve asks Zorian for something he can honestly give.
+58. **The Book.** The manuscript begins: what the loops were, what a field is, and what may be published. Havlova's review discipline is the difference between testimony and a book.
+59. **What May Be Erased.** Maruna's clinic, a patient who wants forgetting, a patient who wants remembering, and the Church's interest in both.
+60. **The Stolen Copy.** A copy is taken from the street in daylight. Everything about the method says Vrana: he wants an anchor who already knows what a loop feels like, and a copy can be spent.
+61. **What the Frame Needs.** The technical answer, plainly: an anchor, a frame, a mana source. The parts they can see, the part they cannot, and why a copy is worth more to Vrana than a hostage.
+62. **The Brood's Ledger.** Six eggs accounted, three young found, one captured; Lukav's assay shows the captivity feed is time-magic hardware. The two remaining young go quiet.
+63. **Who May Be Told.** The argument about Kirielle, Raynie, and the loops, with each position argued well. A decision made that is not total and not permanent.
+64. **The Road to Koth.** Why the copy must be recovered abroad, who goes, what the gate allows, and what Zorian must leave behind running without him.
 
-### Part V — The Open Secret (49–60)
+### Part V — The Other End of the Road (65–80)
 
-49. **The Brother Who Was There.** Kiri discovers a simulacrum attended a promised outing. A separate station closure endangers a repair crew. These expose limitations in time management and incomplete data, not an inherent wrongness of simulacrums.
-50. **A Day He Keeps.** Zorian keeps a family commitment while delegated allies accomplish real work. Kiri finishes her illustrated project; one drawing recovers a sample label, not the whole mystery. Close their dispute and set future expectations.
-51. **The Unmoving Shield.** The first variable-phase prototype opens attack windows. Xvim and Selin quantify error. Voss recruits an employee to falsify a trial log. The book receives technical peer review during these tests.
-52. **Mrva Stands.** Restore locomotion, lifting, and a reliable limited combat configuration. Mobile sensors supply missing measurements. The enterprise funds maintenance; no unexplained sentient awakening.
-53. **An Offer to Leave.** A foreign sponsor offers refuge for exclusive route access. Keeper and Spear disagree; Tinami must reconsider House Aope's control. Raynie actively responds to Ch. 44 instead of vanishing until the final page.
-54. **The Webs' Agreement.** Negotiate independent representation and non-displacement clauses. Secure a pilot Cyoria charter with concrete duties and protections. This settles the web territorial dispute without claiming universal acceptance.
-55. **A Useful Book.** Ivena chooses limited treatment; results are mixed but useful. Complete the manuscript with aranea attribution. A publisher accepts a public defense volume and separately reviewed technical supplement.
-56. **What the Audience Saw.** A concealed control insert spoils the public engineering trial. Zorian prevents deaths with unmistakably advanced magic. Catch the employee and identify sabotage. Elayer now has a substantive new lead, not another vague suspicion.
-57. **Three Stations.** Voss's shipment plan redirects creatures toward unregistered tunnels. Split the heroes' forces with known costs. Sorev orders a delay, is overruled, and must choose obedience or civilians.
-58. **A Moving Wall.** Corrected prototypes and mundane redundant barriers capture a juvenile alive. A costly proof of concept. Raynie and Zorian choose a relationship after weeks of consideration; a private victory amid danger.
-59. **Ordinary Courage.** Fortov uses placement training to manage dispatch during evacuation, without sudden magical greatness. Zach coordinates one front, Taiven another. Fortov earns employment and respect.
-60. **The Man Behind the Switches.** Capture Voss with records, mind magic, and coordinated action. Sorev disobeys the sacrifice order and testifies. Human command ends; machinery and brood remain dangerous. Elayer gains enough evidence to demand a confidential reckoning after the emergency.
+65. **Through the Gate.** Koth's side of the permanent gate: inspection, protocol, and a family that treats Zorian as one of their own problems.
+66. **The Adepts' Ledger.** Shu-Lian's order knows more about the frame language than anyone and sells nothing for free; a bargain of inspection-for-inspection.
+67. **A School in a War Zone.** A Koth academy, a curriculum argument, and Zorian's exposure to how other traditions teach time-adjacent work; what he has to unlearn.
+68. **The Bakora Frame.** Bakora Gate geometry as the missing half of the frame language; the adepts' fear of what their own gates can be made to say.
+69. **The Forest That Belongs to Two Peoples.** Koth's claim on the northern forest mirrors home's: Eight-of-Cinders' charter draft is argued from both ends of the gate.
+70. **The Web and the Wedding.** Aranea observers at a Koth wedding negotiation; Tinami's House Aope agenda collides with independent representation; Novelty embarrasses everyone usefully.
+71. **The Copy Who Was Spent.** A copy of someone else, discarded: what Vrana's experiments leave behind. The recovered copy of Zorian is found — and is not the same person he sent.
+72. **Months That Are Not His.** The recovered copy has lived, decided, and grieved for months. He wants his own name; he wants his own life; he does not want to be a report.
+73. **Raynie's Terms.** A negotiated exchange for her tribe's honour, with her leading it; a private conversation that is not a proposal, and is not nothing.
+74. **The Name.** The Koth copy asks for a name and takes one. The legal oddity of it becomes the wedge that opens a rights question neither government wants.
+75. **Parents at the Gate.** Zorian's parents meet Orissa's family; Fortov's failure and his first honest work offer; nobody is magically improved.
+76. **Zach Against Tesen.** The lawsuit ends: estate restored, restitution ordered, a real loss that stays lost. Zach wins and it costs him a partnership he wanted.
+77. **The Overseas Workshop.** A Bureau front working with Koth frame-makers; a raid that finds parts and catches nobody; Oganj's orb appears in the supply chain and does not move.
+78. **What Healing Costs.** Maruna's method used on a Koth veteran, with mixed results; Alanic's position on Church authority tested in public.
+79. **The Silent Door.** The adepts' offer: help in Koth for a price inside Eldemar. Daimen refuses, then trades anyway, and tells his family why.
+80. **Coming Home Late.** The return, the household changed by his absence, and the first sign that home has been busy: a second field inside the city, bigger, and the Bureau has already sold the land.
 
-### Part VI — What Remains (61–72)
+### Part VI — The Bureau of Losses (81–96)
 
-61. **The Last Safe Route.** Plan specific evacuation, load repair, and creature containment. Assign fallback routes and accountability. The angel accepts a final time window in return for assay access, not a new contract over Zach's life.
-62. **No One Left Below.** Evacuate the final inhabited pocket. Keeper's routes and Novelty's communication matter. A failed exit forces use of the Ch. 15 route; the early map pays off. No last-minute invented population just to inflate stakes.
-63. **The Mother Turns.** The mother hunts moving power sources and tries to retrieve its captured young. Behavior overturns one convenient assumption. Revise the interception using established measurements; Zach chooses his role after full briefing.
-64. **All the Doors at Once.** Mrva, constructs, crews, and Zorian stabilize concurrent nodes while Taiven fights displaced creatures. Zorian's parallel abilities are decisive. He abandons the public beginner disguise to prevent a cascade; name witnesses and permanent consequences.
-65. **The Fourth Hatchling.** Zach kills the last free juvenile using the established adaptation cost. The captive remains contained. A failing relief node consumes expensive reserve materials obtained in Part III.
-66. **The Hunter at the Crossing.** Defeat the mother in a prepared moving trap while the network is rerouted. Search and assay the lair; account for all six eggs and four young. Transfer the captive to a monitored facility. Stabilize regional migration and close the main physical conflict.
-67. **Names in the Record.** Bounded truthful testimony settles Elayer's inquiry. Resolve Voss's prosecution/restitution, Sorev's sanction, Mara's reinstatement, and maintenance authority. Adopt a limited retaliatory expedition and domestic-defense reserve, not a promise of total conquest. Zorian is publicly advanced; the full loop story stays private.
-68. **No Second Contract.** The angel verifies finite contamination and no new primordial breach, withdraws the purge, and accepts monitored confinement with explicit failure procedures. Confirm the earlier promise was honored. No revived geas or new death pact.
-69. **Work That Can Be Signed.** Publish the book and supplement; Kael and Ivena provide follow-up. Credit Selin and Edwin. Sign sustainable licenses and an advanced Academy arrangement; close money and education arcs without infinite wealth.
-70. **What They Chose.** Raynie and Zorian manage public attention as an existing couple. Akoja continues her independent work. Imaya's household thins as homes are repaired; shared life changes rather than disappearing.
-71. **Two Families.** Daimen and Orissa marry under Ch. 42's terms. Confirm Fortov's placement, Kiri's education, and the parents' practical commitments. Differences remain, but no unresolved wedding decision or educational threat.
-72. **An Unclaimed Afternoon.** Months-later follow-up confirms habitat, captive, routes, income, and charter are holding. Zach and Zorian enjoy ordinary company. Kiri has a new drawing; Raynie her own plans. End on a chosen future, not a new egg, escaped antagonist, or existential cliffhanger.
+81. **The Register and the Man.** Horak's salvage register: three years of "recovered articles" that were never recovered. A clerk with a conscience who has been writing it all down.
+82. **Elayer's Arithmetic.** Two ledgers laid side by side: Elayer's and Zorian's. Neither reveals everything; both get closer, and Elayer's questions move to the Bureau.
+83. **Havlova's Terms.** Review under pressure: a device must be demonstrated in public, with the risks written down, before it may be sold. The stakes of the demonstration are set.
+84. **The Petition.** Aranea, foresters, and foresters' wives; a charter drafted against the Bureau's claim to the northern forest; Tinami's counter-offer is better than anyone expects.
+85. **What the Church Wants.** The Bureau's use of the dead is now a doctrinal problem; the angel's interest sharpens; Alanic asks for evidence instead of loyalty.
+86. **Two Kinds of Gate.** Adepts versus Ibasan versus Bakora, in one argument: how Quatach-Ichl's stabilisation frame becomes a time frame. The theory lands, and it is ugly.
+87. **The Young Hunters.** The two remaining altered juveniles strike a Bureau collection wagon; one is killed, one escapes, and the Bureau's live cargo vanishes with it.
+88. **What a Copy Owes.** The recovered copy is asked to testify about its own captivity and refuses to be the only witness to itself; the household argues about who owns a life.
+89. **Fortov's Apprentice Year.** A trade indenture, a bad start, a first week survived; the parents' objections answered with paperwork, not magic.
+90. **The Forest Charter, Draft One.** Loggers, weavers, the flock, and a web: the first draft is signed by everyone who will be harmed by it, which is most of them.
+91. **Three People and a Tea House.** Akoja, a copy, and the original, in one room, on purpose. Nothing is resolved, everything is clearer, and Akoja leaves with her own plan intact.
+92. **Kirielle's Project.** Her illustrated measurement book is real work, and a stranger's interest in it is a warning. Zorian overreacts; Kirielle is right; Beka is furious about the tools.
+93. **The Machine Shop.** The licensed workshop at full tilt: batch work, quality fights, a competitor hiring his best hand, and the first honest profit he has made since the war.
+94. **The Public Demonstration.** Havlova's trial, staged in the street, with the risks announced. It works — until the Bureau's own salvage cart arrives on the wrong street, running its own detector against him.
+95. **What the Audience Saw.** A working device on public display, and the copy that operates it, seen by thousands. Elayer has a face to match to a name; the Bureau has a complaint; the crowd has a story.
+96. **The Registrar's Invitation.** Vrana asks Zorian to see his work privately, because he believes Zorian is the one man who will understand. He is right, and the tour is not a threat — it is an argument.
 
-## 6. Payoff register
+### Part VII — The Argument (97–112)
 
-A reminder supplies new evidence or changes a decision; it is not a recap inserted merely to mention a thread.
+97. **One District, One Day.** Vrana's case: bounded, once, deniable, and it brings back the dead of a single street. He names the price and calls it manageable. Zorian does not say no.
+98. **The Worst True Thing.** Xvim says it: Zorian wants to be able to undo it. Daimen says the softer version, Alanic says the religious one, and Zach says none of it and hands him a wrench.
+99. **The Calibration Job.** Zorian helps with a "harmless" calibration and stops one step short of the part that would spend a person. Maruna's clinic takes in what the trial leaves behind.
+100. **A Borrowed Month.** The Bureau's paper closes around the workshop: contracts, debts, and a licence review timed to hurt. Havlova is reinstated and immediately outvoted.
+101. **Mrva and the Ledger.** Restoration at last: a walk across the yard, a collapse in the street, and a repair bill that forces the first sale of something he wanted to keep.
+102. **The Sweeps Stop.** The aranea withdraw from the city's sweeps after a public attack on Novelty; without them the fields multiply; the city notices the absence before it notices the reason.
+103. **What the Held Remember.** The keeper-trick woman, free and speaking: what eleven million repetitions feel like from inside. The book's first honest chapter is written from her dictation.
+104. **Advanced Placement.** Kirielle's entrance trial and Zorian's Academy work cross; a teacher is nearly fired for refusing to grade a copy; the school board learns the word "simulacrum".
+105. **Raynie Decides Her Own Errand.** She takes a tribe obligation that puts her in Vrana's district and does not tell him, which is exactly why he is afraid.
+106. **Thirty Seconds.** A partial cycle runs: half a street rewinds, one man dies twice, and Zorian is the only person who remembers. No one else will ever be able to.
+107. **The Telling.** Zorian tells Raynie about the loops, on purpose, badly, and gives her time; Maruna's clinic takes the patients the Church wants; Alanic chooses a side at real cost.
+108. **Elayer's Interview.** The second interview, now with evidence: witnesses, engineering, a name. Elayer does not ask about time; he asks about who gave the orders. The net is his to close.
+109. **The Family Council.** Fortov's apprenticeship, Daimen's wedding date, Kirielle's schooling, and the parents' one useful concession — all settled at a table, none of it sweetly.
+110. **What She Answered.** Raynie's answer, in her own words, on her own schedule; the copy's answer too; Akoja's answer arrives by letter and is better than expected.
+111. **The Review Board Votes.** The book is accepted for publication with a technical supplement; a second licence is refused on purpose; the supplement's reviewer is Beka.
+112. **Two Families, One Table.** Daimen's engagement dinner with all the arguments at once; a truce between Imaya's house and the Wallach parents; a plan for the coming winter that is already out of date.
 
-| ID | Question / commitment | Plant | Meaningful returns | Required closure |
-|---|---|---:|---|---|
-| P01 | Anchor failure and paired pulse | 1 | 3, 7, 11 | Local danger 12; Mara's innocence 39; maintenance authority 67 |
-| P02 | Sealed witness | 4 | 17, 23, 36 | Object, proof, fee, guide payment and acknowledgment 39 |
-| P03 | Hunter origin and offspring | 7, 19 | 22, 35, 45, 47 | Origin 47; all eggs/young/mother accounted for 66; captive disposition 68, 72 |
-| P04 | Zach's hurt and boundaries | 1, 6 | 21 | Trust demonstrated 24; successfully tested 60–66 |
-| P05 | Tesen and the estate | 6 | 18, 29, 31 | Judgment and control 33; no dangling ambush |
-| P06 | Kiri's learning and promised time | 1, 3 | 9, 26, 43, 49 | Project and dispute 50; durable arrangements 71 |
-| P07 | Raynie's rescue promises | 2, 8 | 16, 25, 37 | Defined obligations and freedom 43 |
-| P08 | Raynie and unequal memories | 8 | 25, 37, 44, 53 | Informed relationship 58; practical expectations 70 |
-| P09 | Akoja's parent misunderstanding / crush | 5 | 9 | Misunderstanding 9; romantic answer 25; independent success 69–70 |
-| P10 | Money, sales, Mrva budget | 1–2 | 17, 27, 32, 34 | Enterprise 32; restoration 52; ongoing income/costs 69 |
-| P11 | Supposed unused invasion cache | 32 | Within chapter | Exposed forged lure 32; no windfall |
-| P12 | Princess and flock | 2 | 26 | Habitat, compensation, monitoring 28; follow-up 72 |
-| P13 | Book and clinical request | 3, 20, 30 | 51, 55 | Publication and Ivena's follow-up 69 |
-| P14 | Kael's research and lab | 3, 9 | 30 | Origin disclosed 30; replication/ownership 55, 69 |
-| P15 | Web conflict and status | 5, 13 | 16, 23, 27, 53 | Non-displacement and pilot charter 54; implementation 67 |
-| P16 | Voss's extraction/intimidation | 7 | 17, 29, 31, 36, 39, 48, 56–57 | Capture 60; case and restitution 67 |
-| P17 | Sorev and military priorities | 18 | 27, 36, 48, 57 | Testimony 60; sanction/limited expedition policy 67 |
-| P18 | Lattice function and repair | 1 | 15, 24, 34, 39–40, 47, 51 | Proven method 58; repair 64–66; maintenance 67 |
-| P19 | Angel undertaking / contamination | 35 | 48, 58, 61 | Old promise confirmed 35; new dispute settled 68 |
-| P20 | Elayer's inquiry / Zorian's cover | 12, 18 | 27, 36, 56, 60, 64 | Confidential settlement/public account 67; consequences 69–70 |
-| P21 | Fortov's studies, debt, career | 17 | 25, 41, 43 | Placement and repayment schedule 59; confirmed 71 |
-| P22 | Daimen, Orissa, parents, gate privileges | 4, 17 | 37, 42–43 | Independent terms 42–43; wedding 71 |
-| P23 | Academy boredom / qualification | 5 | 17, 20, 34 | Advanced placement 46; research 58; long-term status 69 |
-| P24 | Foreign and Silverlake bargains | 20, 37, 45 | 23, 38 | Foreign exchanges 40; Silverlake payment 47 |
-| P25 | Selin's publication and credit | 5, 17 | 31, 46, 51, 56 | Correct evidence 57; recognized achievement 69 |
+### Part VIII — All the Liars of the Road (113–128)
 
-No mandatory thread is reserved for a later book. Future ambitions are fine; unpaid explicit promises, missing people, and immediate danger require resolution. Additional prose-created promises get a ledger ID and an ending before the next chapter is drafted.
+113. **The Coalition Asks.** The crown wants the Bureau's machinery; the Church wants it destroyed; the aranea want it paid for; Koth wants the frame language kept secret. Zorian must pick what he will not do.
+114. **Live Cargo.** The escaped juvenile, now feeding on a field; a hunt that must not damage the field, with Taiven commanding and Mrva in the street in public.
+115. **The Held City Block.** The Bureau's biggest field, fenced for a year: two hundred people running eleven minutes. Destroying the frame kills them all; letting it run spends them.
+116. **The Sweeps Return.** Eight-of-Cinders and Spear of Resolve agree when the forest charter is signed; the sweeps resume, and the last unknown fields are found and emptied in a week of exhausting work.
+117. **Raynie in the District.** Her tribe's errand puts her inside the held block's ring; she gets out under the rules and refuses to be escorted, which is the point.
+118. **Kirielle's Choice.** She insists on being told and refuses to be protected; she is let into one bounded piece of the work and is good at it, and the fear of what that means does not go away.
+119. **The Charter Signed.** Forest, web, and flock: the charter is signed, implemented badly, and improved in the same breath; the brood's remaining young are accounted.
+120. **What Zorian Is Willing to Say in Public.** His own testimony before Elayer, on the record, with the loop left out and everything else true. The cost is named in advance and paid.
+121. **The Forest Charter, Implemented.** Compensation paid, the flock rehomed with monitoring, the concession bought out; the boy's injured hand from the storage plot finally given an outcome.
+122. **The Copy Court.** A ruling on whether a copy is property, a person, or an argument: a partial, ugly, useful decision — and the first rule written down for people like him.
+123. **The Foreign Ledger.** Oganj refuses, Quatach-Ichl's agents want the frame language, and the adepts close the gate for inspection: containment, not victory.
+124. **The Mother Found.** The altered mother, tracked and seen: changed in ways the coda only hinted at, and not survivable. It is not finished off; it is watched, and it goes.
+125. **The Last Juvenile.** One killed, one contained under monitored confinement with explicit procedures; the brood's account closed to the last egg, with nothing saved for later.
+126. **Elayer Closes.** The Bureau's men are arrested on paperwork and testimony; Vrana is not among them; Riedl testifies; Elayer asks Zorian for the one thing still missing and is refused.
+127. **The Engineer Taken.** Vrana's chief frame-maker is caught with half the engine built, and the arithmetic on the table is worse than feared: the held block was never the limit, it was the fuel.
+128. **The Trap's Shape.** To reach the engine they must not break the field, must not kill the anchor, and must not let the cycle run. Everyone who is going is told the odds and the cost, and Fortov is put in charge of a wagon train.
+
+### Part IX — The Last Eleven Minutes (129–144)
+
+129. **The Engine Room.** Where it is, why there, and what it costs to enter: the old facility under the city, its shafts, and the Guardian of the Threshold's price.
+130. **Every Door at Once.** Coordinated entry across four fronts with known names and known failures; Taiven, Zach, Shu-Lian, Mrva, the webs; a death that stays dead.
+131. **Inside the Eleven Minutes.** Zorian walks the held block and learns what they are doing with their minutes; he is seen by someone who has been waiting for him across four hundred repetitions.
+132. **The Anchor's Face.** The anchor is not a criminal: a volunteer from the unrecoverable list, paid for, believing it was temporary. Zorian's offer of an honest end is refused — by the anchor.
+133. **The Register Enters.** Horak's book and Kreiz's ledgers read into the record, in the middle of the emergency, because paper is a weapon too; the Bureau's money trail is cut.
+134. **What He Tells the Crown.** Elayer's account of the whole thing, with the loop omitted and every engineering fact true; the crown's price is a silence that Zorian agrees to and hates.
+135. **The Angel's Answer.** No new contract, no new sentence: assay, finite damage, monitored confinement with explicit failure procedures, and the old promise confirmed and closed.
+136. **The Held Woman Again.** The keeper trick used deliberately to hold the field open long enough to dismantle it; the cost is hers to pay and she sets her own terms first.
+137. **Gate, Charter, Court.** Three settlements at once: the gate charter signed, the copy ruling entered into standing practice, the forest charter funded. Nothing is finished, everything is durable.
+138. **Work That Can Be Signed.** The book and the supplement published with Beka, Havlova, and the keeper-trick woman named; licences issued; the workshop's first year closes in the black.
+139. **The Machine Taken Apart.** The dismantling under rules, with the held people released one seam at a time; the last regulator is Beka's and her hands shake.
+140. **What the Dead Owe.** Riedl's restitution, Maruna's clinic, the compensation paid to the families Vrana wrote off, and the memorial that lists the held as people rather than as an incident.
+141. **The Lever.** Vrana's last choice is his own, taken with the machine in front of him and his daughter in it; Zorian does not stop him and does not help him. The trial refuses him the comfortable story.
+142. **The Wedding.** Daimen and Orissa marry on the terms they wrote; the parents behave almost well; Fortov brings his workshop people; the gate families bring a gift that is also a policy.
+143. **Names in the Record.** Who is publicly known to be what, written down plainly: Zorian advanced and licensed, the copies persons under the ruling, the loops still private and the reason still honest.
+144. **An Afternoon He Keeps.** Imaya's house, years older and louder: a lesson taught, a yard with a bell that rings on time, Kirielle's drawing pinned up, a copy who has his own plans, a choice made about what comes next. The gate is open and the road is long.
 
 ## 7. Craft and continuity controls
 
-- **Competence:** Let Zorian solve problems. Do not repeatedly withhold a lifesaving spell to manufacture a moral lesson. His Chapter 1 concealment complicates evidence, not the priority of rescuing someone.
-- **Magic:** No unexplained telepathy through mind blank, omniscient divination, or generic anti-magic selectively disabling heroes. Record what information and preparation each solution requires. The Lattice can be destroyed; predictable collateral costs make careless destruction unwise.
-- **Expertise:** A mage who built Mrva needs fabrication, geology, manpower, and data, not an ordinary contractor teaching him basic golem design. Academy arrangements reflect his advanced abilities.
-- **Romance:** Include affection, humor, desire, and ordinary companionship, not only trust discussions. No mandatory serial romances or contrived cheating.
-- **Rhythm:** Resolve a concrete objective every three or four chapters. A repeated observation cannot justify another chapter without changed stakes. Meetings need decisions; training needs results that alter options.
-- **Time/travel:** Nine months support growth, court proceedings, hatching, repairs, and school. Use the Koth gate and known teleports intelligently. Recovery waits for physical access and location data, not for everyone to remember teleportation exists.
-- **Knowledge:** Core allies have explanations or memory crystals already. Public acquaintances know less. Maintain named knowledge boundaries rather than resetting everyone to ignorance.
-- **Originality:** New English prose with clear action, dry humor, precise magic, and individual voices. Do not reproduce source passages or aim for sentence-level imitation. No specific fanfiction was consulted for this revision; broad genre conventions are prompts, not attributed research.
-- **Cast continuity checks:** Verify source details about Lukav, sulrothum, Silverlake, Orissa, and Oganj before their planned appearances. If a source conflict arises, revise the unwritten outline and preserve the dramatic function, not a false fact.
+- **Domesticity is load-bearing.** Every part must contain scenes with no plot function except to make the reader feel at home in this house and this school. The world-saving matters because of these scenes.
+- **Simulacra:** never write them as props. State the mana cost when one is made; show the upkeep; let them refuse things; let them be wrong. Never invent a free memory-transfer mechanism.
+- **Chapters:** end where the story is, not where a scene is tidy. A part may end on an unresolved thread; a chapter may too. No chapter may exist only to restate a situation.
+- **Competence:** let Zorian solve things; his limits are mana, time, evidence, permission, and other people's decisions — never forgetting a lifesaving spell for a lesson.
+- **Magic:** no omniscient divination, no anti-magic that selectively disables the heroes, no time sense that supplies plot facts. Instrumented evidence, testimony, and ledgers decide what counts.
+- **Magic-system honesty:** the field technology is derived from canon gate and time-magic work; if a mechanism conflicts with a source fact, the outline changes and the dramatic function stays.
+- **Romance:** affection, humour, desire, awkwardness, and practical decisions. No contrived triangles; the Akoja complication is handled as a question of persons and consent.
+- **Time and travel:** 22 months supports school years, lawsuits, hatching, restoration, publication, and a wedding. Use the permanent gate and known teleports deliberately; travel has schedules and prices.
+- **Knowledge boundaries:** named characters know named things; the memory crystals, Xvim, Alanic, and Daimen are already informed; the public story stays a story. Nobody deduces the loop.
+- **Originality:** new prose, no source pastiche, no quoted source sentences, no fanfiction consulted.
+- **No lattice:** no reconstruction-collapse plots, no subterranean engineering spine, and none of the retired characters or names.
 
-## 8. Stable chapters and repeatable EPUB workflow
+## 8. Payoff register
 
-1. Before writing, read this plan, continuity log, the previous chapter, and relevant source scenes. Only the requested chapter range is authorized. The current request permits **Chapters 1-2**, both delivered and frozen; Chapter 3 and later still require a new request.
-2. Save chapters as `chapters/Chapter NNN - Title.md`. Each must be a complete narrative chapter, not a synopsis. Review plot causality, English, voices, chronology, and word count before delivery. Do not pad to a number.
-3. At delivery freeze the chapter and record its SHA-256 digest. **No later alteration without the user's permission**, including continuity fixes or typos. If an error appears, log it, request permission, and adapt unwritten material where possible. The old plan's unilateral continuity-fix exception is revoked.
-4. Update `Continuity log.md` with actual events, timeline, locations, injuries, money commitments, objects, knowledge, clues, and next actions. An outline event is not canon until written.
-5. Maintain `chapter-locks.json`. The build rejects changes to locked chapters and requires explicit registration of reviewed new chapters. An authorized revision requires a recorded permission and explicit lock update.
-6. Use the standalone original sequel cover, `The Shape of After - Cover.png`, generated reproducibly by `python tools/render_cover.py`. Embed that same graphic in every edition, mark it as the OPF cover image, and include a cover page. Do not reuse the original novel's cover.
-7. Build every reading edition from **all** completed chapters in numeric order. First output: `Mother of Learning - The Shape of After - Chapters 001-001.epub`. Later ranges grow cumulatively. Keep earlier range editions.
-8. Include title/attribution, English metadata, stylesheet, navigable contents, chapter breaks, and full text. No planning spoilers or original novel text. Credit this as an unofficial AI-assisted continuation, not an original-author publication.
-9. Validate ZIP integrity, cover dimensions/designation/rendering resource, EPUB mimetype packaging, XML, manifest/spine/navigation references, consecutive chapter numbering, source hashes, and paragraph identity between source and XHTML. Run EPUBCheck when available; distinguish automated checks from reading-device rendering verification.
-10. Report files, narrative word count, chapter range, and checks. Future requests add chapters and rebuild the full EPUB without modifying earlier text.
+A reminder must add evidence or change a decision; it is not a recap.
 
-## 9. Immediate opening contract
+| ID | Question / commitment | Plant | Meaningful returns | Required closure |
+|---|---|---:|---|---|
+| P01 | The doubled minute on Vrabec Row | 1 | 4, 8, 12, 15, 19, 26, 31 | Field emptied 31; origin 48 |
+| P02 | The regulator that runs late | 2 | 5, 10, 19, 21, 34 | Escapement analysis 21; frame language 86 |
+| P03 | Who is buying war salvage | 6 | 13, 15, 16, 24, 32 | Register 81, 133; Bureau cut 133 |
+| P04 | The Bureau's lists of the unrecoverable | 6 | 39, 48, 61, 79, 99 | Anchor's identity 132; restitution 140 |
+| P05 | The Akoja-and-the-copy entanglement | 1 | 9, 49, 60, 88 | Terms 91; her own answer 112; settled 143 |
+| P06 | Copy upkeep, mana maths, and the cap | 2 | 11, 21, 33, 88, 99 | Cost paid 33; standing rules 122, 143 |
+| P07 | The Koth copy and the questions about him | 2 | 16, 17, 65, 71 | Copy recovered 71; the name 74 |
+| P08 | Elayer's inquiry and Zorian's public story | 8 | 19, 32, 48, 63, 82, 95 | Testimony 120; the crown's silence 134; record 143 |
+| P09 | The baker's wife and the missing object | 1 | 12, 19, 26 | Rescued 12; theft traced 32 |
+| P10 | Beka's shop debt | 5 | 10, 21, 24, 46 | Refusal 24; shop kept 144; coauthor 138 |
+| P11 | Zach's lawsuit and Tesen | 7 | 23, 29, 44 | Judgment 76; final interference stopped 130 |
+| P12 | The held house and its twelve people | 26 | 33–38, 47 | Emptied 48; the held block 115, 131, 136 |
+| P13 | The keeper trick: remembering inside a field | 47 | 103, 131 | Her dictation 103; her terms 136 |
+| P14 | Kirielle's lessons and her own project | 1 | 5, 35, 53, 92 | Her book 138; trial 118; education settled 140 |
+| P15 | Koth gate: protocol, trade, adepts | 16 | 37, 65–68, 79 | Gate charter 137; wedding terms 142 |
+| P16 | The wedding and the gate privileges | 27 | 42, 55, 75 | Terms 42; marriage 142 |
+| P17 | Fortov's studies, debt, and trade | 27 | 75, 89 | Indenture 89; placement confirmed 128 |
+| P18 | Mrva's restoration and the workshop money | 2 | 14, 34, 43, 56, 93 | Walk 101; funded 131; licence 138 |
+| P19 | Princess, the flock, and the northern forest | 2 | 18, 34, 54, 69 | Forest charter 119–121; monitoring 144 |
+| P20 | The altered brood and live collectors | 12 | 28, 38, 62, 87, 114 | All young 125; mother seen and gone 124; captivity rules 125 |
+| P21 | The aranea: sweeps, scapegoating, charter | 15 | 22, 36, 57, 102, 116 | Charter 119; sweeps restored 116; representation 137 |
+| P22 | Havlova's review and the book | 10 | 21, 46, 58, 83, 94, 111 | Published 138; licences 138 |
+| P23 | Selin Var's credit and the measurement error | 46 | 92, 111 | Correction 111; coauthor credit 138 |
+| P24 | Silverlake's favour, to be named later | 45 | 77, 99 | Named and paid 129 |
+| P25 | The time-magic notes and the buried facility | 15 | 45, 86, 123 | Entered 129; the Guardian's price 129 |
+| P26 | Xvim's cost and the memory crystals | 30 | 52, 63, 98 | His answer 98; crystal digestion 143 |
+| P27 | Maruna's clinic and what may be erased | 40 | 59, 78, 99, 107 | Clinic 140; policy 135 |
+| P28 | The stolen copy and what Vrana wants | 60 | 71–72, 88, 99 | Recovery 71; testimony 88; anchor logic 61, 132 |
+| P29 | The partial cycle and the man who died twice | 106 | 107, 115, 127 | Proof of cost 127; stopped 141 |
+| P30 | The held block: two hundred people as fuel | 115 | 127, 130–131 | Released 136, 139; memorial 140 |
+| P31 | Foreign ledgers: Oganj, the orb, Quatach-Ichl | 77 | 123 | Gate inspection and containment 137; no conquest promised |
+| P32 | The angel, the contract, and no new sentence | 50 | 85, 97, 135 | Confirmed closed 135 |
+| P33 | Raynie's claims, her own errand, and her answer | 17 | 20, 73, 105, 117 | Obligations 110; her decision 110; shared plans 144 |
+| P34 | Riedl's guilt and Horak's register | 13 | 39, 81, 96 | Testimony 126; register 133; restitution 140 |
 
-Chapter 1 establishes the existing postwar household, introduces Mara through a rescue, plants the paired geometry and second pulse, and creates a concrete follow-up. Close the trapped-worker emergency, not the investigation or the novel. No narrator exposition about the Lattice, Voss, or the brood's unknown fate. Chapter 2 was written and frozen as directed: budget and scope settled, Ilsa's limited diagnostic commission, verifiable proof, Raynie's departure, and the household promises kept. Chapter 3 starts after the night of the second day; Chapters 3–5 await authorization.
+No mandatory thread is reserved for a later book. New promises made in prose get a ledger row and an ending before the next chapter is drafted.
+
+## 9. Stable chapters and repeatable EPUB workflow
+
+1. Before writing, read this plan, the continuity log, the previous chapter, and the relevant source scenes. Only the requested chapter range is authorised. The current request permits **Chapters 1–2**; both are delivered and frozen. Chapter 3 and later require a new request.
+2. Save chapters as `chapters/Chapter NNN - Title.md`. Each is a complete narrative chapter in prose, not a synopsis; it may end unresolved. Review causality, English, voices, chronology, and word count before delivery. No padding to a number.
+3. At delivery, freeze and hash the chapter. **No later alteration without the reader's permission**, including typos and continuity fixes. An authorised revision requires a recorded permission and an explicit lock update, and the withdrawn text must be deleted rather than quietly amended.
+4. Update `Continuity log.md` with actual events, dates, locations, injuries, money, objects, knowledge, clues, and next actions. An outline event is not canon until written.
+5. Maintain `chapter-locks.json`; the builder rejects changes to locked chapters and demands explicit registration of new ones.
+6. Cover: `The Shape of After - Cover.png`, rendered reproducibly by `python tools/render_cover.py`, embedded in every edition, marked as the OPF cover image, with a cover page. The retired underground-lattice motif must not return; the lower motif is a clock and its broken ring. Do not reuse the original novel's cover.
+7. Build every reading edition from **all** completed chapters in numeric order: `Mother of Learning - The Shape of After - Chapters 001-NNN.epub`. Keep only the current range edition once the range has moved on, so withdrawn text never sits in the repository.
+8. Title page, attribution, English metadata, stylesheet, navigable contents, chapter breaks, full text. No planning spoilers and no original-novel text in the EPUB. Credit: unofficial AI-assisted continuation.
+9. Validate ZIP integrity, EPUB mimetype packaging, cover dimensions/designation/rendering resource, XML, manifest/spine/navigation, consecutive numbering, source hashes, and paragraph identity between source and XHTML. EPUBCheck when available; device rendering stays labelled untested.
+10. Report files, narrative word count, chapter range, and checks **without describing story content**. The reader receives metadata in chat and prose in files.
+
+## 10. Immediate opening contract
+
+Chapter 1 opens in Imaya's house with familiar people and no urgency: Kirielle's lesson, the household's business, the study group, and the Epilogue's copy problem arriving in daylight. The uncanny is small and local — a bell a minute late, a woman who lived forty seconds twice. Nothing is explained and nothing is solved. Chapter 2 continues the same days: why he keeps the copies he keeps, what they cost, what the Koth copy writes, and a regulator that ticks late. Both chapters keep the reader at home and put the first pieces of the ledger in play.

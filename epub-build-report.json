@@ -1,8 +1,8 @@
 {
   "epub": "Mother of Learning - The Shape of After - Chapters 001-002.epub",
   "chapter_count": 2,
-  "narrative_words": 12238,
-  "epub_sha256": "e9925095d8d116fcdb59b11df6ff91efc3a40301743ac0ac208c3b7c662587ea",
+  "narrative_words": 12231,
+  "epub_sha256": "6f666453314cce50a0efabdb75d5f290043fcec2edc5addd95f0784df93fb193",
   "epubcheck": "not available; built-in structural and source-text checks passed",
   "cover": {
     "path": "The Shape of After - Cover.png",
@@ -26,20 +26,20 @@
   "device_rendering": "not tested",
   "chapters": [
     {
-      "path": "chapters/Chapter 001 - After the Moon.md",
+      "path": "chapters/Chapter 001 - Two Mornings on Vrabec Row.md",
       "number": 1,
-      "title": "After the Moon",
-      "words": 5949,
-      "sha256": "eddfeaa6c0b999fad1f02dc6e12d6631ed8301ee7de840d62a5c3cc5cfa310c3",
-      "scene_breaks": 4
+      "title": "Two Mornings on Vrabec Row",
+      "words": 5740,
+      "sha256": "dce7375f72ba830401674e12aeaeaeb1b82a2514d6ef2e71cff14ad11a18e987",
+      "scene_breaks": 7
     },
     {
-      "path": "chapters/Chapter 002 - A Budget for One Person.md",
+      "path": "chapters/Chapter 002 - The Cost of Copies.md",
       "number": 2,
-      "title": "A Budget for One Person",
-      "words": 6289,
-      "sha256": "3025d7ba3613218f93c1480c9941021dc66abd71a1611642c7ccab35e3e0443f",
-      "scene_breaks": 8
+      "title": "The Cost of Copies",
+      "words": 6491,
+      "sha256": "3a4756b5321fff68fa656d37c23f08bd074610ebd23fd3268d35f22ce859875d",
+      "scene_breaks": 5
     }
   ]
 }

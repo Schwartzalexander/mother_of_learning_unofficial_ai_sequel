@@ -1,5 +1,6 @@
 """Render the standalone sequel cover artwork as a high-resolution PNG."""
 
+import math
 from pathlib import Path
 
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
@@ -72,19 +73,30 @@ def render():
     d.polygon([(0, 1510), (250, 1390), (475, 1535), (700, 1430), (950, 1600),
                (1200, 1460), (1420, 1595), (1600, 1490), (1600, HEIGHT), (0, HEIGHT)],
               fill=(4, 16, 29, 255))
-    # Lattice geometry subtly crosses old stone and roots; twin warm pulses echo Chapter 1.
-    lattice = (105, 185, 184, 78)
-    nodes = [(105, 1610), (345, 1490), (565, 1680), (815, 1515), (1075, 1705),
-             (1310, 1535), (1510, 1690), (220, 1970), (525, 1885), (850, 2070),
-             (1180, 1915), (1440, 2110)]
-    edges = [(0, 1), (1, 2), (2, 3), (3, 4), (4, 5), (5, 6), (0, 7), (2, 8),
-             (3, 8), (4, 9), (5, 10), (6, 11), (7, 8), (8, 9), (9, 10), (10, 11)]
-    for i, j in edges:
-        d.line((nodes[i], nodes[j]), fill=lattice, width=3)
-    for x, y in nodes:
-        d.ellipse((x - 7, y - 7, x + 7, y + 7), fill=(187, 218, 191, 155))
-    d.ellipse((493, 1860, 557, 1924), fill=(223, 153, 81, 120))
-    d.ellipse((1117, 1884, 1181, 1948), fill=(223, 153, 81, 95))
+    # The lower field carries a great broken dial instead of the retired grid motif:
+    # a clock face ringed once, with one span of the rim left open.
+    dial = (118, 168, 178, 96)
+    ccx, ccy, cr = 1150, 1655, 345
+    d.ellipse((ccx - cr, ccy - cr, ccx + cr, ccy + cr), outline=dial, width=4)
+    d.ellipse((ccx - cr + 44, ccy - cr + 44, ccx + cr - 44, ccy + cr - 44),
+              outline=(118, 168, 178, 54), width=2)
+    for minute in range(60):
+        ang = math.radians(minute * 6 - 90)
+        inner = cr - (34 if minute % 5 == 0 else 17)
+        d.line(((ccx + int(inner * math.cos(ang)), ccy + int(inner * math.sin(ang))),
+                (ccx + int((cr - 6) * math.cos(ang)), ccy + int((cr - 6) * math.sin(ang)))),
+               fill=(163, 196, 196, 98 if minute % 5 == 0 else 52),
+               width=4 if minute % 5 == 0 else 2)
+    d.arc((ccx - cr, ccy - cr, ccx + cr, ccy + cr), 104, 152, fill=(4, 16, 29, 250), width=10)
+    # The hands stand at an angle that reads as stopped rather than running.
+    for angle, reach, weight in ((232, 236, 7), (48, 150, 9)):
+        rad = math.radians(angle - 90)
+        d.line(((ccx, ccy), (ccx + int(reach * math.cos(rad)), ccy + int(reach * math.sin(rad)))),
+               fill=(206, 221, 214, 132), width=weight)
+    d.ellipse((ccx - 13, ccy - 13, ccx + 13, ccy + 13), fill=(214, 226, 219, 150))
+    # Two warm accents keep the lower field from going cold.
+    d.ellipse((515, 1828, 579, 1892), fill=(223, 153, 81, 116))
+    d.ellipse((1225, 1930, 1289, 1994), fill=(223, 153, 81, 92))
 
     # A small solitary mage, back turned toward the reader: scale, not a portrait likeness.
     d.ellipse((752, 1292, 849, 1390), fill=(5, 12, 23, 255))
@@ -97,14 +109,13 @@ def render():
     d.line([(770, 1420), (804, 1555), (836, 1420)], fill=(106, 148, 147, 92), width=3)
     d.line([(804, 1555), (762, 1703)], fill=(106, 148, 147, 48), width=2)
 
-    # Delicate web motif above the title, integrated with the geometric network.
-    cx, cy, radius = 800, 1860, 360
+    # Delicate web motif above the title, kept clear of the dial on the right.
+    cx, cy, radius = 470, 1905, 300
     web = (180, 196, 172, 95)
     d.arc((cx - radius, cy - radius, cx + radius, cy + radius), 205, 335, fill=web, width=2)
-    d.arc((cx - 275, cy - 275, cx + 275, cy + 275), 205, 335, fill=web, width=2)
-    d.arc((cx - 185, cy - 185, cx + 185, cy + 185), 205, 335, fill=web, width=2)
+    d.arc((cx - 228, cy - 228, cx + 228, cy + 228), 205, 335, fill=web, width=2)
+    d.arc((cx - 152, cy - 152, cx + 152, cy + 152), 205, 335, fill=web, width=2)
     for angle in (205, 226, 248, 270, 292, 314, 335):
-        import math
         rad = math.radians(angle)
         end = (cx + int(radius * math.cos(rad)), cy + int(radius * math.sin(rad)))
         d.line((cx, cy, end[0], end[1]), fill=web, width=2)

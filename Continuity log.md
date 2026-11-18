@@ -1,146 +1,113 @@
 # Continuity Log — The Shape of After
 
-**Current installment:** Chapter 2, "A Budget for One Person."
-**Canon hierarchy:** supplied original novel → delivered chapter text → this log → master plan → optional idea bank. Planned events are not established facts.
-**Freeze policy:** Chapters 1 and 2 must remain byte-for-byte unchanged unless the user authorizes revision. `chapter-locks.json` stores their actual hashes. The builder refuses altered or missing locked chapters, including when registering new ones.
+**SPOILER BANNER: author-side working paper.** This file records established story facts so that later chapters stay consistent. It is not a reading aid. Nothing in it may be paraphrased into chat, commit messages, reports, README text, file names, or code comments.
 
-## 1. Actual timeline
+**Current installment:** Chapter 2, "The Cost of Copies." Chapters 1 and 2 are frozen and locked.
+**Canon hierarchy:** supplied original novel → delivered chapter text → this log → master plan (Revision 3) → optional idea bank. Planned events are not established facts.
+**Withdrawal record:** the two chapters delivered earlier in this project were withdrawn on the reader's explicit instruction of 2026-11-18 and their files were deleted; `chapter-locks.json` carries the audit entry. Nothing from those chapters is canon, and no later chapter may depend on their events, characters, places, or documents.
 
-- **Chapter 1, evening:** immediately after Zorian turns toward Imaya's house at the end of his moonlit walk in the original Epilogue. Approximately one month after the invasion, NOT battle night. Accidental encounter with Mara's reconstruction site; Dovin rescued; watch and healer take over; anchor isolated; witness report signed. Later: stew with Imaya, bedroom exchange with Kiri, Zorian draws the partially seen anchor.
-- **Chapter 1, following morning:** breakfast eaten; promised drawing lesson kept; Mara arrives with second-site measurements and asks for an introduction to Ilsa.
-- **Chapter 2, same morning:** Ilsa arrives at the house while the definition argument is still going. Scope, authority, and payment are settled at the kitchen table. Household tasks are done before noon (Akoja's attendance count to Imaya; the Thursday butcher commitment; the next three evenings announced). Zorian does the written budget. Raynie leaves for home on the second bell, mid-morning, with two unread-out-loud letters.
-- **Chapter 2, late morning to afternoon:** the locked first site is entered under Ilsa's commission; unmanned recorder run; then the second site is worked by two parties. The works office reader comes at the end of the afternoon (Wednesday) and repeats first-site readings himself.
-- **Chapter 2, early evening:** Zorian sends word by a neighbor's boy that he will be late; he is back before supper. Ten minutes of supervised thread practice in the yard with Kirielle, before the evening meal.
-- **Chapter 2, night:** in the shared bedroom, Zorian sets the budget sheet and his receipt side by side and writes the outstanding tests and the forest date. **End location: the shared bedroom, day 2 of the story.**
-- Academy remains closed. Reopening still expected in roughly a week, in Chapter 5. Raynie is travelling now and is away from this point on; her return is expected at reopening, with her family's approval uncertain.
-- The Friday joint repeat at the second site is scheduled but **not yet performed**. Nothing in Chapter 3 may assume it already happened off-page unless it is shown or reported.
+## 1. Story clock and setting as established
 
-## 2. Characters actually introduced or seen
+- No delivered chapter states an exact interval since the attack. Do not state one until it is fixed deliberately. Wording in Chapter 1 is "the war had made it into something else", "the summer", "nineteen years" (Aneta's tenancy), "eleven years" (the baker winding his bell).
+- Imaya's house: crowded. The Academy dormitories were damaged and the house has tenants — two third-years in the front room, a girl from the eastern provinces who sleeps with her wand under her pillow, a Koth-trained artificer's apprentice in the attic who pays by mending plumbing, and Kopriva in the second-best room. The Academy warded the house against intrusion (it uses the house as an improvised classroom) and installed a side-door bell badly: it rings on wet mornings with nobody in the doorway.
+- Imaya's board by the door: three chalk columns, evenings promised, names who owe them, and a third column headed "and don't". Zorian is in it under "the thing with the lamps".
+- Front room = best light, study group. Yard = spell practice, and Mrva's disassembled torso and arm-casing under three-winter tarps; one detached hand set upright against the wall. The shed is too small for the colossus and is let to the plumbing apprentice's projects.
+- Academy state: closed but reopening; notices in Chapter 1 say dormitories will not be finished before term, non-resident fees are rising, and the third-year placement review returns, run by a board of four. Paragraph six permits advancement into fourth-year courses of a discipline by demonstrating competence before the board; the permitted-discipline list is longer than the taught curriculum; a demonstrator stays a third-year in everything else.
 
-### Mara Vesk — recurring
+## 2. Simulacra doctrine exactly as stated in delivered text
 
-- Reconstruction surveyor; practical knowledge of old footings, load-sharing supports, site records. Limited casting implied; not an archmage or combat specialist.
-- Brown hair, work coat with rolled cuffs, copper measuring instrument with two needles and a probe, notebook, waxed paper folder, drawing board. Writes failure/extraction times on cuffs. Records probe face, distance from stone, supply-key state, and time.
-- Her authority to unload the four sound sites is **restored on Friday-facing conditions**: a witness must be present at every unloading, supply stays disconnected, no anchor moves, nothing older than the new fitting may be touched, and a twice-answering stone stops the crew.
-- She keeps the map and traces; no transfer of ownership. She restored her own notes proving the second site's crew had argued about a hard object two inches short of the collar line.
-- Knows Zorian can sense a living mind, support a structure, bypass a faulty regulator, and copy documents. Does not know the hidden extent of his simultaneous force fields, the loop, Mrva, or his standing as a master mind mage.
+These sentences are now story facts and must not be contradicted or quietly widened.
 
-### Ilsa Zileti — now an active party
+- Standing copies at Chapter 2: **three** — Zorian himself, **Nine** in the house, **Four** in Koth. The numbering is Zorian's own habit that "had once meant something and now meant only that he had started counting and had not been able to bring himself to stop". Do not imply a canonical registry order.
+- Upkeep is continuous and runs while he sleeps. Distance raises cost, which is why Four is the cheapest standing copy and the hardest to reach.
+- Every spell a copy casts comes out of Zorian's pool and costs more than the same spell cast by him, because a copy's shaping is less clean.
+- Each additional standing copy measurably weakens his reserves. Three is his working cap because at three he can still hold a shield over a room of children, still open a gate, still think for six hours.
+- He made one extra short-lived copy for two hours during the war's aftermath and sat on the coal for twenty minutes afterwards with shaking hands. In Chapter 2 he makes one in the yard, slowly, deliberately cheaply, and it does nothing but move a crate of brackets and a hammer.
+- Making a copy is shown on the page: mana leaves in a long pull, then light, then suggestion of weight, then weight, then clothes, then face, then "the thing that makes a face wrong by a quarter of a degree", which he can fix and does not, because fixing it is not worth the price.
+- Nothing a copy learns returns to him. No experience or memory transfer. A copy must tell, write, or teach him, and then he learns it like anyone.
+- Copies have independent initiative and their own preferences (Nine arranged the tea meeting, took a room rather than sleeping in an archive, keeps a notebook, decides things while writing). Dismissal is described as ending somebody who existed for about an hour, done in private, and remembered.
+- Zorian's stated refusal to run more than three is not stinginess but defence capacity; Chapter 2 has Xvim say plainly that in the war the number went above three and that Zorian told himself each one was the last.
+- Chapter 2, at the ward office, Zorian writes the first version of the document that says what a copy is allowed to be: not property, not a construct, may refuse an instruction, may leave, acts as himself when acting for Zorian, and Zorian answers for the results and expects to argue afterwards. It was filed at the ward office, so the city now holds a searchable statement about what Nine is. Nine's objection on the page — right to leave, no right to be paid — was corrected in the second version he signed.
 
-- Academy teacher and the household's nearest authorized ward practitioner; contracted for reconstruction wardwork, which is what makes her able to hold the works office commission.
-- Reads Zorian's drawing before anyone asks her opinion: the two curves are a **matched pair**, same depth of cut, facing each other; the second is interrupted where the new collar begins. She credits the drawing's honesty and refuses to invent the missing parts.
-- Refuses to certify anyone. She signs only that a student assisted with a diagnostic at her request.
-- Holds the commission: measurement, documentation, recommendations; no repair authority, no site-opening authority, no opinion about the old work's purpose. Commission paid out of her own purse to her helpers.
-- Undisclosed until now, and volunteered: she has seen the same paired cutting **twice in three weeks** in places not on Mara's map: a culvert under the tanners' gate (old cutting in brick, new culvert built inside it) and a granary cellar near the old market (the same two curves in a wall carrying nothing). She had dismissed both as badly copied load work.
-- Sets the method: two parties, unmanned recording, questions asked twice in different orders, office repetition before anything is acted on.
-- Knows from the witness report that Zorian braced a failing frame and bypassed a faulty regulator. She notes that a third-year should not manage that; Zorian answers that he had good teachers and practice. **She does not press it, and she has not been told anything further.** Do not write her as fooled; write her as deliberately not spending that question yet.
+## 3. Chronology of delivered chapters
 
-### Works office reader — unnamed functionary
+**Chapter 1** — one day, starting before dawn.
 
-- Thin man, good instrument, bad morning. Repeats first-site readings himself, in his own order, with the watch mage holding the supply key and Dovin beside him. Asks quietly: "What is under my street?"
-- Writes "the anomaly is unexplained and the diagnostic is ongoing" and refuses to shorten that phrase. Issues the site rules, the conditional reinstatement paper, and the receipt. Agrees with visible reluctance to return Friday and repeat the second site with Mara holding the probe.
-- No hidden motive established. He is not a villain; he is an official made careful by fear of an unanswered question.
+1. Zorian wakes early; Kirielle has slept on him and stacked objects on his chest (stolen spoon, ribbon, his own brass paperweight). A list on a nail by his window that he does not read in the morning.
+2. Kirielle reports a soft-featured salvage dealer wants to buy "the big thing". Imaya is neutralising him at the table by feeding him.
+3. Akoja at the table with Academy notices, having copied "the important bits. Three lines". Kopriva down in stocking feet. The third line is the paragraph-six advancement rule.
+4. Yard lesson: Kirielle's light cantrip is a smear because Zorian taught her the hard first shape on purpose — a line with a bend, light from the bend — to stop her holding shapes with her fists. She gets one good white light with a blue edge, loses it when she grins, and laughs instead of swearing. He refuses the water-jumping spell until both hands hold a bend for a count of twenty.
+5. Raynie watching, not delivering a message: says the Academy teaches spheres because they are easier, wants a salvage sale on Friday, says bring Kirielle because she can haggle by being disappointing.
+6. Post at half past nine: Four's letter from Koth (see paragraph 5).
+7. Two in the afternoon, front room: Akoja's tea-appointment confrontation. Nine admits arranging it. Zorian tells the room what a copy is. Akoja's terms: Saturday, three o'clock; the Kopriva problem in writing by Monday; no more telling her she misunderstood something she has read twice.
+8. Yard negotiation between Zorian and Nine about Saturdays and wanting things. A quarter-chime bell from the bakery answers his internal clock **a full minute early**. Kirielle asks whether it rang before or after he heard it.
+9. Vrabec Row: Aneta on her step; forty seconds lived twice; flour to the wrist then to the elbow; dough on the wrong side of the bowl; a kettle boiling that she had not put on; the smell is what made her scream. The baker says the bell is a minute fast inside that house only, that he has a second clock agreeing with it, that he cleaned the bell, and that the ward office told him to have his wife seen by a leech.
+10. Zorian's first refusal to tear a seam: he can feel the field in the plaster, it is not magic he recognises, his clock heard it early, and he has no instrument, no permission, no repeatable witness. He orders: nobody touches the plaster, nobody tells the ward office he was there, Kirielle maps every opened place on the wall from outside, Nine finds names of secondhand-goods sellers, and if there is no name Nine is to write that there was no name rather than invent one.
+11. Ends with a kettle lifting its lid on a cold stove three doors down.
 
-### Dovin — returned, still closed
+**Chapter 2** — the next week: day 2 morning, day 3 yard and post, day 4 Tuesday auction, day 5 Wednesday ward office, day 6 Thursday.
 
-- Took the morning off, then came back to the site with his left arm in a sling and a mug, to be the witness when the office asks again who turned the release wheel. Shakes Zorian's hand and states his wish to be present.
-- No pay dispute, no missing-person thread, no new obligation. He is now the crew's standing witness by the rope.
+1. Xvim at the table at seven in the morning does the arithmetic out loud and gets rebuked by Imaya for volume, not content. He names the thing everybody is avoiding: Zorian speaks of copies as "he" and "it" in the same breath, and Nine hears both. Nine's tell is holding the pencil the way Zorian does when trying not to leave a room.
+2. Zorian states the whole cost table out loud in his own kitchen, including the coal-and-shaking-hands memory, which Kirielle hears and objects to not having been told about.
+3. Zorian answers Four's letter standing at the window, in his own hand, not dictated. Terms and answers are in paragraph 5.
+4. Yard demonstration for Kirielle: the cheap copy, the hammer picked up and put down, the price of nothing at all, the no-transfer rule, "what does this one want", "are you a monster", and the counting drill — she loses the shape at sixteen, has it at twenty-one.
+5. Tuesday salvage sale by the canal, run by a firm with good lawyers and no taste. Zorian sells gate clamps, buys back his own clockwork, and buys a brass regulator in a junk lot for **forty gold**. It runs about half a second slow and there is no visible way to wind it; the pivots show a tool mark he has never seen on salvaged work. The catalogue man says "we do not know what it is" twice, in two different voices. Three bidders bid flat, at the same pause, with one man in a grey coat raising his hand slightly late; the grey coat does not go above forty gold when Zorian bids.
+6. Wednesday, ward office, annex of an annex: licence nine, inspection four, four more because the ward was rebuilt, complaint deposit fifteen — **thirty-two paid**. The blocker is the schedule entry for the war construct, which needs the name the body was registered under: it is registered to an armourer of the sixth ward who died in the first hour of the attack and never signed the transfer. Zorian must bring the dead man's bill of sale plus a witness who will swear the metal left that yard under that hand. Then the clerk says there is no column for Nine.
+7. Thursday: a city-wide notice puts all mechanical, horological, and measuring war salvage under review by a provisional crown office, with a month to declare and free assessment. Kopriva has read all six compensation offices, has been paid by two, and refused the second because the offer was insulting. Then Aneta comes in the evening with a basket meant as payment and decided at the door to be an apology.
+8. Aneta's neighbours: a woman of forty-one three doors down, no bell, a kettle that boils off the stove, twice that week, moved to another room and found boiling there, and she told nobody.
+9. Aneta's news: an assessor calling himself **Riedl** came the previous day with a form and a receipt book, took her description word for word, asked whether anything in her house ran slow while looking at her hall clock, and said they had already found two in the street and paid for both. Aneta said no.
+10. Kirielle's wall drawing: a to-scale street elevation with a grid of her own, four plaster openings at the same height in four houses, plus one she marked "painted" — five total — and a new brick at the corner that is a quarter of an inch too long and ground down on one side.
+11. Ends with the whole of Vrabec Row put onto a list under a title rather than a name, with a small neat case number, the fifth opened in that street.
 
-### Kael — laboratory angle, still unequipped
+## 4. People now established
 
-- Wants the copper-and-crust packet and does not touch it. Offers only what he has: the basement has a burner and glass and what survived being blown up; the new building has a furnace, and the furnace has a permit problem because Imaya will not have alchemy under her floor.
-- His stated two-day promise: with a hot furnace he can say whether the crust grew onto the copper or the copper was laid over the crust. **Not done yet.** No age, date, or origin claim exists.
-- Worked the second site alone with a second recorder and wrote his own times. Asked for four gold and got it; mentioned it twice.
+- **Aneta** — baker of Vrabec Row, nineteen years in the house, the doubled forty seconds, lied to Riedl about her wall. Husband: winds the bell eleven years, owns a second clock, was told to get his wife seen by a leech. Both are now witnesses, and both are exposed.
+- **Nine** — household copy. In the rain from dawn, wet to the left elbow, plaster chip on the cheekbone from the shed wall, keeps the notebook, writes names before being asked, decides things mid-writing and shows it. Wants a Saturday. Was addressed as "sir" by a clerk in front of a queue.
+- **Four** — Koth copy. Letter read in Chapter 1, answered in Chapter 2. Eleven days in the Koth end's salvage archive finishing an inventory job; had begun inventing work and disliked the feeling; has taken a room near the Silent Doorway's house rather than sleeping in the archive, offered by a family who does not know what he is; reports that gate inspection schedules changed twice in a month and that adepts now charge for carrying personal correspondence. His closing question is whether being part of somebody else's family makes him a member of it, and whether anyone intends to ask him to the ceremony. Zorian's answer: keep the room and tell the family what he is, and if they want him out he comes to the gate rather than sleeping in a doorway; stop inventing work and collect every price and restriction placed on the gate in the last three months, in writing, because prices show what people fear before they say so; take the wedding preparations seriously; he will be asked in person, not by letter, whether he walks through the gate or watches from the Koth end, and no answer is required yet; and the honest admission that Zorian has no answer yet for whether part of a family is a member of it, plus a promise to write of him as himself.
+- **The throwaway yard copy** — unnamed, one hour, hammer and brackets, dismissed in private with the fact remembered. Do not refer to it as a tool afterwards without cost.
+- **Riedl** — assessor of the provisional crown office. Name only so far, given by Aneta. Has a form, a receipt book, and a way of saying "madam" that makes the listener apologise. Already inside Aneta's street, already paid for two finds, already wrote it all down.
+- **The grey coat** — unnamed proxy bidder, hand slightly late, did not go above forty gold. Nine was behind him at both raises and has his position in the notebook, plus a written note that he could not get a face.
+- **The soft-featured dealer** — unnamed, offered a trade for the disassembled colossus and was fed at Imaya's table until he gave up.
+- **The narrow clerk** — excellent handwriting, no interest in Zorian, no column for a copy, insisted on writing to a dead man's registration, and made the point that paperwork is what a copy's legal status costs.
+- **Kopriva** — has read all six compensation offices; was paid by two and refused one as insulting; knows the paid-assistant-in-third-year-practicals rate and states it as conversation.
+- **Akoja** — keeps the notices and the pencil; terms set as above; asks, on Thursday, who the office is and who is feeding it.
+- **Xvim** — did the arithmetic and the "he/it" accusation in the same morning.
+- **Ilsa** — forms for the placement review; predicts the certificate used as a doorstop; writes everything, including other people's numbers, on the bottoms of forms.
+- **Kiana** — quiet in the way that means arithmetic; the room knows she has a younger brother and that the eastern district, and with it the family workshop, is gone. **No number has been said out loud yet.** That is Chapter 11's beat; do not spend it early.
+- **Naim, Edwin, Estin, Kael, Raynie, Kopriva, Taiven, Kana, Nochka, Rea, Kirielle, Imaya** — all present as household or study-group presences in Chapter 1. Raynie has no family trouble in these two chapters; do not invent any.
+- **Princess, Mrva, Kosjenka** — Mrva is disassembled and stored on the property; nothing in Chapters 1–2 mentions Princess or the iron-beaked flock, and the herders' claim from the withdrawn draft does **not** exist. Do not reference it.
 
-### Raynie Aope — departing, away from here on
+## 5. Objects, money, paper
 
-- Leaves on the second bell with her bag and both bottles of good ink, carried partway by Kiana, who walks her to the corner and no further.
-- Two letters she has and has not settled: the cat shifters' **itemized** account (rope, four horses at current prices, two days of runners, use of the south yard, a man's wages for the day her brother was found), which they expect from her because she asked and no one at home agreed first; and the pigeon shifters' expectation that she speak at their autumn gathering **in her family's name** about the rescue, which they have already announced.
-- Her uncle wrote that he hopes she understands what she has done, without saying what.
-- Takes Zorian's advice for the money letter: do not pay it alone; write what was actually owed to whom and send copies to her uncle and to the runner's family so the amount belongs to more than one person. She will write it before she arrives and read it badly to her aunt.
-- Condition set: if the police or anyone official asks Zorian about the rescue, he tells her first, before them, and not through a newspaper.
-- She asks not to be written to about spiders and negotiations as though she has been keeping up; she wants news of the household. She expects to be back at Academy reopening "unless my family decides that the Academy is a thing I used to do."
+- **Brass regulator**: plate of interlocking teeth inside a ring, better than Cyorian work, not old, running about half a second slow, no visible winding. Bought for forty gold at the Tuesday sale. Where it came from is unstated; the catalogue firm would not say.
+- Aneta's wall holds a different, larger object: small enough to fit behind plaster, at ladder height, running for over a year without winding. Five opened places, one painted over. The too-long brick is now almost certainly in Riedl's possession, and Kirielle has said out loud that whoever has the brick will know somebody measured it.
+- Sold at the sale: the gate clamps ("a thing that could open a gate" is not being kept in a house with children in it). Bought back: his own clockwork. Unnamed cages of the loop month are still in his possession and unsold.
+- Paid: thirty-two gold at the ward office. Outstanding requirement: the dead armourer's bill of sale and a witness. The restoration cost gap is stated in the chapter only as a number he can now look at; **no figure has been given**. Three hundred gold worth of articulated metal is on the property.
+- Zorian has no written monthly cap and no sales rule in this continuity line; those were in the withdrawn chapters. Do not reference them.
+- Paper trail now in existence: Four's letter and Zorian's reply; Nine's notebook (Aneta's street, ladder-height openings, the grey coat's position, Riedl, the receipt book, a new column started Thursday evening); Zorian's own page headed with Kirielle's sentence about the brick, dated, with one line written under it that is not shown to the reader; the clerk's form with the note about the dead armourer's bill of sale; the filed statement about what Nine is allowed to be; the ward office and city lists with Vrabec Row and case numbers.
 
-### Household
+## 6. Established constraints for later chapters
 
-- Akoja keeps the study-group records and, since the invasion, an extra attendance page. Count given and accepted: eleven regulars most mornings, twelve when Kael eats with them, Ilsa four days plus sometimes a talkative wardworks man who eats nothing, children variable. Imaya reads the number off the board and copies it into the apron book; the Thursday cheap shoulder is committed because Zorian will be home Thursday.
-- Imaya's schedule rule is now **in force**: advance notice before the pot goes on, the evenings written on the board by the door, and a message by boy if anything changes. Zorian complied the same day, and the word "late" was written in the space she left.
-- Imaya has kept the household accounts for nineteen years and pushed him to write down what he is paid "for whoever comes after you".
-- Kopriva, several weeks earlier, told Zorian at dinner that a man had asked her in a friendly way in the street where she knew him from. This **restates the source's existing state** (people asking about him); it is not a new inquiry and must not be escalated before Chapter 7.
-- Kirielle: the promised same-day practice happened. Thread exercise reduced to holding only the end she touches; lamp used so that a steady thread throws a hairline shadow. She holds steady about twenty counts, roughly four times that morning, before Nochka sits on the lamp. Next promised step: twenty counts while someone talks to her. No new spell, no dangerous casting.
-- Nochka and Kana appear as household children; Kana arrives from the washyard. No new facts about either.
-- Edwin did the careful written estimate of Mrva's restoration cost. Naim and Edwin are present in the front-room teaching beat; no new obligations from either.
-- Zach still off-page, still in court preparation and the Tesen suit. No new contact.
+- The doubled minutes are local, not city-wide. Vrabec Row only so far, and the mechanism is a held object behind plaster at ladder height, not a ley-line or lattice. Keep the scale small and physical.
+- Zorian will not tear a seam without instrument, permission, and a repeatable witness. That refusal is now a character fact and must cost him something in every later scar-field chapter.
+- Aneta lied to the Bureau and now has to live with it. The Bureau is not covering anything up: it is finding the same objects faster and writing better than Zorian can.
+- The grey coat and Riedl are not yet connected in anyone's knowledge, including the reader's.
+- Kirielle: light from a bend in both hands, twenty counts achieved. No water spells. Her next promised step is a moving object, small and dry, and only if the wrist holds.
+- The Saturday tea between Akoja and Nine is upcoming, and the condition that the Kopriva problem be in writing by Monday. Whoever writes it, Akoja is to receive it from the one who will be at the table.
+- Kopriva's street anecdote about a stranger asking where she knows Zorian from is **unspent** in this continuity line. It is Chapter 3's beat; do not spend it earlier.
 
-## 3. Magical and physical evidence
+## 7. Deviations from the plan (Revision 3 beats 1–2)
 
-**First site (the locked one, same street as the accident):**
+- Four's letter arrives in Chapter 1 rather than Chapter 2; Chapter 2 carries the answer. The Koth copy's first on-page report is therefore Chapter 1.
+- Chapter 2 added the ward-office licensing beat, which the plan places later (Mrva storage arc). It is now established: the licence fee has been paid and the bill of sale is owed. Later Mrva chapters must continue from that paper trail rather than restarting it.
+- Chapter 2 used the salvage-sale material the plan reserves for a later auction chapter. That later chapter must therefore be a different sale, with different stakes.
 
-- Unmanned recorder run three paces from the north anchor with everyone out of the cellar; the watch mage watched it and touched nothing. Trace: flat, strong rise, weaker rise, flat; repeatable at the same place on the plate.
-- Hand readings taken afterwards by Mara on her instrument; Ilsa wrote what she dictated and asked each question twice, in the expected order and the unexpected one.
-- Zorian stood at the top of the stairs and cast nothing. He explicitly refused to write anything from his own perception, because an unfalsifiable claim would be argued about for a week while four crews waited. **No instrument reading in the story rests on his senses.**
+## 8. Chapter 3 handoff
 
-**Second site:**
+Begin on the morning after Chapter 2's Thursday, or at the Saturday tea, at the writer's choice; the plan's beat 3 is "The Board by the Door" and it still holds: reopening announced properly, Akoja's attendance count, Kopriva repeating the stranger question, and the baker's husband describing a click inside the wall when nothing moves. Keep Aneta's lie, Riedl's file, and the missing too-long brick live and unresolved. Do not let Zorian touch the wall. Do not let him raise the copy count. Do not let Kiana's finances come up until Chapter 11.
 
-- Supply has never been connected. The new copper collar is in place but stops two inches short, because the crew hit something hard and argued about cost; recorded in Mara's notes and in the crew's notes. The old cutting is therefore not interrupted there.
-- Ilsa raised the innocent explanation herself (the copper ringing like a bell) and Mara removed it.
-- Trace order remains **weaker pulse before stronger pulse**, matching her morning reading: reproduced by the second recorder, by Mara's hand readings, and by two people who had met the day before.
-- Order at the first site is stronger first, weaker second; separation under a second. Same difference of order, still not explained.
+## 9. Delivery record
 
-**Not yet done and not to be treated as done:** no deposit assay; no third site; no comparison of arrival times between sites; no synchronized-watch offset measurement; no test of the culvert under the tanners' gate or the granary cellar near the old market; no office repeat of the second site (scheduled Friday).
-
-**Ilsa's extra two sites** are observations of shape, not readings. Nothing has been measured there.
-
-**Objects:**
-
-- Copper flake with dark crust: still in its paper packet, orientation recorded, nobody sampled it. Waiting on a furnace.
-- Ilsa's brass recorder with clockwork-driven soot plate, plus a **second recorder**; Kael's stopwatch, which he admits is only accurate to within a minute.
-- Zorian's drawing, now formally "made at Ilsa's request by a student assisting with a diagnostic". Mara's map and traces remain hers.
-- One small receipt with Zorian's name and a number on it, kept in his coat front pocket with the folded budget sheet.
-- No magical copies, communications stones, or new artifacts were used or acquired in Chapter 2.
-
-## 4. Money, injuries, obligations
-
-Written down in the chapter; these are now story facts, not planning notes.
-
-- Room and board at Imaya's: **eleven silver a month**, plus coal share, plus an increase because two more students sleep in the spare room and the washwoman's rate rose. The study group's coffee and bread is an unrecorded small sum.
-- Reserve: still large, still shrinking, no total stated. The chapter states plainly that he has never had to decide whether he could afford a thing twice, and that he set his own cap in response.
-- **Self-imposed cap: forty gold a month** for food, household, reagents, paper, training. Anything above it must come from income he can name out loud in front of somebody. This is a promise to himself and Chapter 3 and later must honor it or show him breaking it.
-- Sales rule he wrote: one buyer; not the same item twice; no commissions; nothing whose design could not be produced by a competent third-year with good tools. Costs him something: the deliberate money is smaller than the money he could make if he stopped caring.
-- Mrva storage: nine gold a month for a walled plot at the edge of the outer quarter with a roofed cart shed over the worst of the pieces. Caretaker **Boleslavin** sent a note: will the big stones be moved before spring, because his boy hurt his hand on one, and do the fence wards need renewal, because nobody renewed them. Renewal quote **twenty-six gold**. A properly warded store (alarm audible inside the city, wall to climb twice) quoted at **over three hundred gold** plus a warden's wage, from a ward engineer who laughed at him. Zorian did not write the restoration line yet.
-- Mrva restoration: Edwin's careful estimate for locomotion and frame is roughly **four times** the cost of the wall he cannot afford.
-- Herders' formal claim, delivered by post boy for two coppers: three men at the northern edge of the Great Forest, **one cow and two goats missing**, horses injured by a flock of large birds over their pasture, asking **forty-five silver**, and asking in a second paragraph whether the beasts belong to a mage of the Kazinski name, failing which they will go to the border guard. Princess and the iron-beaked flock are in the forest and are being seen by people who do not care who owns them.
-- Commission: **fifty gold** against the whole survey, capped, spendable only on an authorized party; the survey is unfinished and if it becomes a diagnosis the money has to be argued for in a different office. Paid out: Zorian **three gold a day**, Kael **four gold**. The allowance is a line in a column, not a solution.
-- Zorian and Mara uninjured. Dovin's arm and ankle still mending. No new injury. Kael has no new wound. Nochka has a squashed lamp and no harm.
-
-## 5. Active thread and promise ledger
-
-| ID | Actual state after Ch. 2 | Next required development | Planned end |
-|---|---|---|---|
-| P01 / P18 | Paired order difference reproduced on two instruments and two people at a site never energized; Ilsa has seen the same cutting twice off-map (tanners' gate culvert, old-market granary cellar) | Ch. 3: Friday office repeat, third-site and off-map shape checks, deposit assay once a furnace exists | Local safety case 12; whole mechanism 64–67 |
-| P06 | Same-day supervised practice delivered: about twenty steady counts, lamp shadow method | Next step promised: twenty counts while someone talks to her. Kiri still no unsupervised casting | Longer teaching arc 50, 71 |
-| P07 | Raynie gone; two unauthorized claims open (cat shifters' itemized account; pigeon shifters' announced autumn speech); her uncle's ambiguous letter; her condition that Zorian tell her first if officials ask about the rescue | Correspondence and family terms 37, 42–43; the rescue itself ends in testimony 60 | Wedding 71 |
-| P10 | Budget, scope, referral, day rates, self-cap, and sales rule all written into the story; first earned receipt exists | Ch. 3 must keep the cap and the sales rule in force, not treat income as solved | Enterprise 32, sustained income 69 |
-| P12 | Herders' claim named in writing; Princess and iron beaks confirmed present and noticed by outsiders; Zorian wrote "the forest" with a date he has not planned around yet | Before the Academy opening pressure drops: visit the pasture, settle or schedule the forty-five silver, deal with the flock being seen | Forest reckoning arc per plan |
-| P26 | Akoja's count produced and accepted by Imaya; the Thursday commitment made | Keep the count and the Thursday shoulder continuous in later household scenes | Closed in Ch. 2; behavior continuous |
-| P27 | Introduction happened with real consequence: Ilsa reads the geometry, rejects certifying anyone, takes the commission, changes the six-site unloading schedule, and expands the map beyond Mara's six cellars | Later chapters keep Ilsa's actual limits: authorized party, no certification, no repair authority | Ongoing, within her stated limits |
-| P28 | Schedule rule agreed and complied with the same day (board by the door, message by boy, "late" written in) | Continuous behavior; a lapse must be a written lapse, not a forgotten one | Established arrangement, continuous |
-| P29 (new, Boleslavin) | Storage caretaker's note unanswered: stones before spring, boy's hurt hand, fence wards unrenewed, twenty-six gold quote | Answer it on paper and decide about the plot and the wards when the storage arc opens; the injury needs a stated outcome | Storage arc per plan; do not leave the hurt boy unmentioned |
-| P30 (new, household debt of knowledge) | Kael's two-day assay promise is attached to a furnace and a permit he does not have; Zorian's question list now includes "did the crust grow onto the copper or was the copper laid over it" | Ch. 3 must show the permit/furnace route (workaround or obstruction), then the partial result | Age and origin claims only when evidence exists |
-
-P02 sealed-witness task, Voss, the Boundary Lattice by name, brood sightings, and all other outlined events remain **unintroduced**. No character has spoken of them as known, and the chapter's own explanation set stays physical: instrument error, the new work, ambient reconstruction field, the recorder's own clock, and the copper ringing like a bell. All of these were either excluded or explicitly left open; none was proven true.
-
-## 6. Chapter 3 handoff
-
-Begin where Chapter 2 ended: the night of story day 2, or the next morning. The open work is the **Friday repeat at the second site with Mara holding the probe**, plus Ilsa's two off-map shapes, plus Kael's furnace and permit problem, plus Boleslavin's unanswered note, plus the herders' forty-five silver and the flock that frightened horses.
-
-Do not let the Friday reading pass off-page. Do not let Zorian solve the geometry by feeling; the instruments and the office reader are the evidence chain, and his own perception remains inadmissible to him on purpose. Do not upgrade the finding into a theory about who built the old work; what the chapter established is that the same cutting appears in at least three places, that one of them is older than the street above it, and that a stone never connected to anything still answers twice.
-
-The Academy has not reopened. Raynie is away and reachable only by letter. No brood or juvenile creature event before its planned window; the flock problem is a husbandry and reputation problem first. Kiri has gained a small, supervised result and no new spell. The forty-gold cap and the sales rule are live constraints on every later scheme.
-
-## 7. Delivery record
-
-- Chapter 1 reviewed against the original ending and the revised plan before first delivery; frozen hash unchanged since.
-- Chapter 2 written after the user's request for another chapter and the new EPUB, then reviewed for voice, chronology, evidence discipline, and word count before registration. Cover already existed and passed validation; no new cover art was needed and none was generated.
-- Exact word counts and hashes are generated in `chapter-locks.json` and `epub-build-report.json`.
-- No delivered chapter may be revised without recorded user permission. Chapters 3–5 are not drafted and not authorized.
+- Chapters 1 and 2 were written after the reader rejected the previous opening and asked for a domestic entry point, visible simulacrum use with stated costs, and a longer plan. Both were written fresh; no earlier text was reused.
+- Word counts, scene-break counts, and SHA-256 hashes are generated by the builder into `chapter-locks.json` and `epub-build-report.json`. This log deliberately repeats none of those numbers.
+- Nothing here may be summarised to the reader. Metadata only.
